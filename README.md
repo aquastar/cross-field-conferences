@@ -423,4 +423,4 @@ If this saves you time, a star helps others find it. To cite the data, use the
 
 > Zhiqian Chen. *Cross-field conference deadlines*. https://github.com/aquastar/cross-field-conferences, 2026.
 
-Data licensed [CC BY 4.0](LICENSE).
+Data licensed [CC BY 4.0](LICENSE): reuse it freely, crediting "Cross-field conference deadlines, Zhiqian Chen, https://zhiqian.ai".
