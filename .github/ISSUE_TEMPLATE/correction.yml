@@ -1,0 +1,25 @@
+name: Correction
+description: Report a wrong or missing conference or deadline
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: The data here is regenerated from https://zhiqian.ai, so pull requests that edit the files would be overwritten. An issue is the way in; fixes land in the next sync.
+  - type: input
+    id: venue
+    attributes:
+      label: Conference or journal
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong, and what is right
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official page that shows it
+    validations:
+      required: true

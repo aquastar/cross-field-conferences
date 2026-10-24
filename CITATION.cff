@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Cross-field conference deadlines"
+abstract: "Submission deadlines, dates and places for conferences and journals across 27 fields."
+authors:
+  - family-names: Chen
+    given-names: Zhiqian
+    website: "https://zhiqian.ai"
+repository-code: "https://github.com/aquastar/cross-field-conferences"
+url: "https://zhiqian.ai"
+license: CC-BY-4.0
+date-released: "2026-10-24"
+keywords:
+  - conference deadlines
+  - call for papers
+  - academic conferences
+  - interdisciplinary research
