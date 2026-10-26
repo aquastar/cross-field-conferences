@@ -11,20 +11,18 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-25. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-10-26. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [WWW](https://www2027.thewebconf.org/) | AI · ML · Data Mining | 2026-10-25 |
 | [ISBI](https://biomedicalimaging.org/2027/) | Biomedical | 2026-10-26 |
 | [UNCECOMP](https://2027.uncecomp.org/) | UQ & statistics | 2026-10-30 |
 | [ECC](https://ecc27.euca-ecc.org/) | Control | 2026-10-31 |
 | [STOC](https://acm-stoc.org/stoc2027/) | Theoretical CS | 2026-11-02 |
 | [CNS](https://www.cogneurosociety.org/submit-a-poster/) | Cognitive neuroscience | 2026-11-03 |
-| [PacificVis](https://pacificvis2027.github.io/) | Visualization | 2026-11-09 |
 | [PES GM](https://pes-gm.org/2027-san-francisco/) | Power & energy | 2026-11-10 |
 | [L4DC](https://l4dc2027.control.ee.ethz.ch/) | Control | 2026-11-13 |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | AI · ML · Data Mining | 2026-11-16 |
@@ -33,6 +31,8 @@ venue's own page before you plan around it.
 | [Dynamics Days US](https://www.ddays.org/2027/) | Dynamical systems | 2026-11-22 |
 | [SIAM DS](https://www.siam.org/conferences-events/siam-conferences/ds27/) | Dynamical systems | 2026-11-23 |
 | [DASFAA](https://dasfaa2027.github.io/) | AI · ML · Data Mining | 2026-11-25 |
+| [APS Annual Convention](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) | Psychology | 2026-12-01 |
+| [NetSci](https://netsci2027.github.io/) | Network science | 2026-12-01 |
 
 ## Computing
 
@@ -40,7 +40,6 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**WWW**](https://www2027.thewebconf.org/) International World Wide Web Conferences | 2026-10-25 | May 10 - 14, 2027, Dublin, Ireland | CCF A · CORE A* |
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2026-10-30 |  |  |
 | [**CVPR**](https://cvpr.thecvf.com/Conferences/2027) IEEE/CVF Conference on Computer Vision and Pattern Recognition | 2026-11-16 | June 20-25, 2027, Seattle, WA, United States | CCF A · CORE A* |
 | [**DASFAA**](https://dasfaa2027.github.io/) Database Systems for Advanced Applications | 2026-11-25 | May 27-30, 2027, Shenyang, China | CCF B · CORE B |
@@ -94,6 +93,7 @@ venue's own page before you plan around it.
 | [**COLING**]() International Conference on Computational Linguistics | 2026-10-12 (passed) |  | CCF B · CORE B |
 | [**ECIR**]() European Conference on Information Retrieval | 2026-10-12 (passed) |  | CCF C · CORE A |
 | [**NAACL**]() The Annual Conference of the North American Chapter of the Association for Computational Linguistics | 2026-10-12 (passed) |  | CCF B · CORE A |
+| [**WWW**](https://www2027.thewebconf.org/) International World Wide Web Conferences | 2026-10-25 (passed) | May 10 - 14, 2027, Dublin, Ireland | CCF A · CORE A* |
 
 [See AI · ML · Data Mining on the site](https://zhiqian.ai/conferences#ai)
 
@@ -153,9 +153,9 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**PacificVis**](https://pacificvis2027.github.io/) IEEE Pacific Visualization Symposium | 2026-11-09 | April 19-22, 2027, Busan, South Korea | CCF C · CORE B |
 | [**EuroVis**](https://eurovis27.github.io/web/) Eurographics Conference on Visualization | ~2026-12-04 | May 31-June 4, 2027, Stuttgart, Germany | CCF B · CORE B |
 | [**IEEE VIS**](https://ieeevis.org/year/2026/welcome) IEEE Visualization Conference | ~2027-03-31 |  | CCF A · CORE A |
+| [**PacificVis**](https://pacificvis2027.github.io/) IEEE Pacific Visualization Symposium | 2026-09-08 (passed) | April 19-22, 2027, Busan, South Korea | CCF C · CORE B |
 
 [See Visualization on the site](https://zhiqian.ai/conferences#vis)
 

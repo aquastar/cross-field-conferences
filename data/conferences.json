@@ -493,6 +493,23 @@
   "note": ""
  },
  {
+  "acronym": "PacificVis",
+  "name": "IEEE Pacific Visualization Symposium",
+  "field": "vis",
+  "field_label": "Visualization",
+  "kind": "ranked",
+  "next_deadline": "2026-09-08",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "April 19-22, 2027",
+  "place": "Busan, South Korea",
+  "link": "https://pacificvis2027.github.io/",
+  "ccf": "C",
+  "core": "B",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
   "acronym": "ASPLOS",
   "name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
   "field": "eda",
@@ -778,23 +795,6 @@
   "link": "https://acm-stoc.org/stoc2027/",
   "ccf": "A",
   "core": "A*",
-  "proceedings": "full",
-  "note": ""
- },
- {
-  "acronym": "PacificVis",
-  "name": "IEEE Pacific Visualization Symposium",
-  "field": "vis",
-  "field_label": "Visualization",
-  "kind": "ranked",
-  "next_deadline": "2026-11-09",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "April 19-22, 2027",
-  "place": "Busan, South Korea",
-  "link": "https://pacificvis2027.github.io/",
-  "ccf": "C",
-  "core": "B",
   "proceedings": "full",
   "note": ""
  },
