@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-26. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-10-27. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [ISBI](https://biomedicalimaging.org/2027/) | Biomedical | 2026-10-26 |
 | [UNCECOMP](https://2027.uncecomp.org/) | UQ & statistics | 2026-10-30 |
 | [ECC](https://ecc27.euca-ecc.org/) | Control | 2026-10-31 |
 | [STOC](https://acm-stoc.org/stoc2027/) | Theoretical CS | 2026-11-02 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [DASFAA](https://dasfaa2027.github.io/) | AI · ML · Data Mining | 2026-11-25 |
 | [APS Annual Convention](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) | Psychology | 2026-12-01 |
 | [NetSci](https://netsci2027.github.io/) | Network science | 2026-12-01 |
+| [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 
 ## Computing
 
@@ -48,9 +48,9 @@ venue's own page before you plan around it.
 | [**ACL**](https://2027.aclweb.org/) Annual Meeting of the Association for Computational Linguistics | 2027-01-04 | August 17-22, 2027, Kyoto, Japan | CCF A · CORE A* |
 | [**IJCAI**](https://2027.ijcai.org/) International Joint Conference on Artificial Intelligence | 2027-01-11 | August 7-13, 2027, Kyoto, Japan | CCF B · CORE A* |
 | [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 18-24, 2027, San Jose, California, USA | CCF A · CORE A* |
+| [**COLT**](https://learningtheory.org/colt2027/) Annual Conference on Learning Theory | 2027-01-29 | June 28 - July 2, 2027, Tokyo, Japan | CCF B · CORE A* |
 | [**GECCO**](https://gecco-2027.sigevo.org/HomePage) Genetic and Evolutionary Computation Conference | ~2027-01-29 | July 12-16, 2027, Kraków, Poland | CCF C · CORE A |
 | [**ICML**](https://icml.cc/Conferences/2026) International Conference on Machine Learning | ~2027-01-30 |  | CCF A · CORE A* |
-| [**COLT**](https://learningtheory.org/colt2027/) Annual Conference on Learning Theory | ~2027-02-06 | June 28 - July 2, 2027, Tokyo, Japan | CCF B · CORE A* |
 | [**UAI**](https://www.auai.org/uai2026/) Conference on Uncertainty in Artificial Intelligence | ~2027-02-10 |  | CCF B · CORE A |
 | [**ICCBR**](https://2026.iccbr.org/) International Conference on Case-Based Reasoning | ~2027-02-26 |  | CCF B · CORE C |
 | [**ICDAR**]() International Conference on Document Analysis and Recognition | 2027-02-28 |  | CCF C · CORE A |
@@ -101,7 +101,7 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**CCS**](https://www.sigsac.org/ccs/CCS2026/) ACM Conference on Computer and Communications Security | 2026-04-29 (passed) | November 16-18, 2026, World Forum, Hague, Netherlands | CCF A · CORE A* |
+| [**CCS**](https://www.sigsac.org/ccs/CCS2027/) ACM Conference on Computer and Communications Security | ~2027-01-09 | October 11-15, 2027, Atlanta, USA | CCF A · CORE A* |
 | [**NDSS**](https://www.ndss-symposium.org/ndss2027/) Network and Distributed System Security (NDSS) Symposium | 2026-05-06 (passed) | March 22 - March 26, 2027, Seoul, Republic of Korea | CCF A · CORE A* |
 | [**S&P**](https://sp2027.ieee-security.org/index.html) IEEE Symposium on Security and Privacy | 2026-06-11 (passed) | May 17-19, 2027, MONTREAL, CANADA | CCF A · CORE A* |
 | [**USENIX Security**](https://www.usenix.org/conference/usenixsecurity27) USENIX Security Symposium | 2026-08-25 (passed) | August 11-13, 2027, Denver, CO, USA | CCF A · CORE A* |
@@ -285,12 +285,12 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**ISBI**](https://biomedicalimaging.org/2027/) IEEE International Symposium on Biomedical Imaging | 2026-10-26 | May 25-28, 2027, Lausanne, Switzerland |  |
 | [**MIDL**](https://2027.midl.io/) Medical Imaging with Deep Learning | 2026-12-04 | July 14-16, 2027, Porto, Portugal |  |
 | [**CHIL**](https://chil.ahli.cc/) AHLI Conference on Health, Inference, and Learning | 2027-02-03 | June 28-30, 2027, Chicago, Illinois, USA |  |
 | [**MICCAI**](https://conferences.miccai.org/2028/en/) International Conference on Medical Image Computing and Computer Assisted Intervention | ~2027-02-27 | September 26 - October 1, 2027, Auckland, New Zealand | CCF B · CORE A |
 | [**AMIA**](https://amia.org/education-events/amia-annual-symposium) AMIA Annual Symposium | ~2027-03-10 |  |  |
 | [**ML4H**](https://ml4h.ahli.cc/) Machine Learning for Health Symposium | ~2027-09-10 | December 6-7, 2026, Sydney, Australia |  |
+| [**ISBI**](https://biomedicalimaging.org/2027/) IEEE International Symposium on Biomedical Imaging | ~2027-10-26 | May 25-28, 2027, Lausanne, Switzerland |  |
 | [**BIBM**](https://ieeebibm.org/BIBM2026/) IEEE International Conference on Bioinformatics and Biomedicine | 2026-07-05 (passed) | Dec 1-4, 2026, Dallas, USA | CCF B |
 
 [See Biomedical on the site](https://zhiqian.ai/conferences#biomed)

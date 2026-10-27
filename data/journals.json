@@ -138,7 +138,7 @@
   "publisher": "IEEE",
   "issn": "0018-9340",
   "ccf": "A",
-  "citations_per_paper": 4,
+  "citations_per_paper": 4.1,
   "h_index": 260,
   "link": "https://dblp.org/db/journals/tc/index.html"
  },
@@ -864,7 +864,7 @@
   "publisher": "Nature Portfolio",
   "issn": "2398-6352",
   "ccf": "N",
-  "citations_per_paper": 14,
+  "citations_per_paper": 14.1,
   "h_index": 166,
   "link": ""
  },
@@ -985,7 +985,7 @@
   "publisher": "Nature Portfolio",
   "issn": "1476-1122",
   "ccf": "N",
-  "citations_per_paper": 24.2,
+  "citations_per_paper": 24.1,
   "h_index": 653,
   "link": ""
  },
@@ -1161,7 +1161,7 @@
   "publisher": "APS",
   "issn": "2691-3399",
   "ccf": "N",
-  "citations_per_paper": 12.1,
+  "citations_per_paper": 12,
   "h_index": 95,
   "link": ""
  },
@@ -1491,7 +1491,7 @@
   "publisher": "Springer",
   "issn": "0924-6495",
   "ccf": "N",
-  "citations_per_paper": 9.5,
+  "citations_per_paper": 9.6,
   "h_index": 80,
   "link": ""
  },
@@ -1656,7 +1656,7 @@
   "publisher": "AI Access Foundation",
   "issn": "1076-9757",
   "ccf": "B",
-  "citations_per_paper": 5.2,
+  "citations_per_paper": 5.3,
   "h_index": 162,
   "link": "https://dblp.org/db/journals/jair/index.html"
  },
@@ -1667,7 +1667,7 @@
   "publisher": "ACM",
   "issn": "1556-4681",
   "ccf": "B",
-  "citations_per_paper": 6.6,
+  "citations_per_paper": 6.7,
   "h_index": 88,
   "link": "https://dblp.org/db/journals/tkdd/index.html"
  },

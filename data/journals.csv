@@ -11,7 +11,7 @@ TOPS,ACM Transactions on Privacy and Security,security,ACM,2471-2566,B,4.5,41,ht
 Computers & Security,Computers & Security,security,Elsevier,0167-4048,B,9.4,168,https://dblp.org/db/journals/compsec/index.html
 JCS,Journal of Computer Security,security,IOS Press,0926-227X,B,1.8,77,https://dblp.org/db/journals/jcs/index.html
 TCAD,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,eda,IEEE,0278-0070,A,3.1,192,https://dblp.org/db/journals/tcad/index.html
-TC,IEEE Transactions on Computers,eda,IEEE,0018-9340,A,4,260,https://dblp.org/db/journals/tc/index.html
+TC,IEEE Transactions on Computers,eda,IEEE,0018-9340,A,4.1,260,https://dblp.org/db/journals/tc/index.html
 TODAES,ACM Transactions on Design Automation of Electronic Systems,eda,ACM,1084-4309,B,3.1,68,https://dblp.org/db/journals/todaes/index.html
 TVLSI,IEEE Transactions on Very Large Scale Integration Systems,eda,IEEE,1063-8210,B,2.7,148,https://dblp.org/db/journals/tvlsi/index.html
 TASLP,"IEEE/ACM Transactions on Audio, Speech, and Language Processing",audio,IEEE / ACM,2329-9290,B,12.7,119,https://dblp.org/db/journals/taslp/index.html
@@ -77,7 +77,7 @@ Dreaming,Dreaming,sleep,APA (IASD),1053-0797,N,0.7,54,
 IJoDR,International Journal of Dream Research,sleep,Heidelberg University,1866-7953,N,0.1,23,
 JAMIA,Journal of the American Medical Informatics Association,biomed,Oxford (AMIA),1067-5027,B,11.8,232,https://dblp.org/db/journals/jamia/index.html
 Lancet Digit. Health,The Lancet Digital Health,biomed,Elsevier,2589-7500,N,16.8,132,
-npj Digit. Med.,npj Digital Medicine,biomed,Nature Portfolio,2398-6352,N,14,166,
+npj Digit. Med.,npj Digital Medicine,biomed,Nature Portfolio,2398-6352,N,14.1,166,
 MedIA,Medical Image Analysis,biomed,Elsevier,1361-8415,C,12.5,221,https://dblp.org/db/journals/mia/index.html
 TMI,IEEE Transactions on Medical Imaging,biomed,IEEE,0278-0062,B,10.5,329,https://dblp.org/db/journals/tmi/index.html
 TBME,IEEE Transactions on Biomedical Engineering,biomed,IEEE,0018-9294,N,4.1,310,https://dblp.org/db/journals/tbe/index.html
@@ -88,7 +88,7 @@ Lancet Inf. Dis.,The Lancet Infectious Diseases,epi,Elsevier,1473-3099,N,12.2,37
 Eurosurveillance,Eurosurveillance,epi,ECDC,1025-496X,N,8.1,173,
 AJE,American Journal of Epidemiology,epi,Oxford,0002-9262,N,3.2,416,
 IDM,Infectious Disease Modelling,epi,KeAi,2468-0427,N,2.8,46,
-Nat. Mater.,Nature Materials,materials,Nature Portfolio,1476-1122,N,24.2,653,
+Nat. Mater.,Nature Materials,materials,Nature Portfolio,1476-1122,N,24.1,653,
 npj Comput. Mater.,npj Computational Materials,materials,Nature Portfolio,2057-3960,N,11.2,139,
 Digital Discovery,Digital Discovery,materials,RSC,2635-098X,N,5.8,45,
 Acta Mater.,Acta Materialia,materials,Elsevier,1359-6454,N,11,421,
@@ -104,7 +104,7 @@ TheoretiCS,TheoretiCS,theory,Episciences,2751-4838,N,2.6,8,https://dblp.org/db/j
 ToC,Theory of Computing,theory,Univ. of Chicago,1557-2862,N,5.7,49,https://dblp.org/db/journals/toc/index.html
 TALG,ACM Transactions on Algorithms,theory,ACM,1549-6325,B,1.4,78,https://dblp.org/db/journals/talg/index.html
 Algorithmica,Algorithmica,theory,Springer,0178-4617,B,1.5,132,https://dblp.org/db/journals/algorithmica/index.html
-PRX Quantum,PRX Quantum,quantum,APS,2691-3399,N,12.1,95,
+PRX Quantum,PRX Quantum,quantum,APS,2691-3399,N,12,95,
 Quantum,Quantum,quantum,Verein Quantum,2521-327X,N,6.8,103,https://dblp.org/db/journals/quantum/index.html
 npj QI,npj Quantum Information,quantum,Nature Portfolio,2056-6387,N,7.5,110,
 PRA,Physical Review A,quantum,APS,1050-2947,N,3,457,
@@ -134,7 +134,7 @@ Mind,Mind,philosophy,Oxford,0026-4423,N,1.5,165,
 PPR,Philosophy and Phenomenological Research,philosophy,Wiley,0031-8205,N,2.2,202,
 Ethics,Ethics,philosophy,Univ. of Chicago Press,0014-1704,N,0.9,183,
 Phil. Sci.,Philosophy of Science,philosophy,Cambridge (PSA),0031-8248,N,1.1,164,
-Minds & Machines,Minds and Machines,philosophy,Springer,0924-6495,N,9.5,80,
+Minds & Machines,Minds and Machines,philosophy,Springer,0924-6495,N,9.6,80,
 Phil. & Tech.,Philosophy & Technology,philosophy,Springer,2210-5433,N,5.2,85,
 JAAR,Journal of the American Academy of Religion,religion,Oxford (AAR),0002-7189,N,0.5,62,
 JSSR,Journal for the Scientific Study of Religion,religion,Wiley (SSSR),0021-8294,N,1.3,207,
@@ -149,8 +149,8 @@ IJST,International Journal of Systematic Theology,theology,Wiley,1463-1652,N,0,2
 SJT,Scottish Journal of Theology,theology,Cambridge,0036-9306,N,0,37,
 JBL,Journal of Biblical Literature,theology,SBL,0021-9231,N,0.3,141,
 Zygon,Zygon: Journal of Religion and Science,theology,Open Library of Humanities,0591-2385,N,0.5,50,
-JAIR,Journal of Artificial Intelligence Research,ai,AI Access Foundation,1076-9757,B,5.2,162,https://dblp.org/db/journals/jair/index.html
-TKDD,ACM Transactions on Knowledge Discovery from Data,ai,ACM,1556-4681,B,6.6,88,https://dblp.org/db/journals/tkdd/index.html
+JAIR,Journal of Artificial Intelligence Research,ai,AI Access Foundation,1076-9757,B,5.3,162,https://dblp.org/db/journals/jair/index.html
+TKDD,ACM Transactions on Knowledge Discovery from Data,ai,ACM,1556-4681,B,6.7,88,https://dblp.org/db/journals/tkdd/index.html
 DMKD,Data Mining and Knowledge Discovery,ai,Springer,1384-5810,B,4.8,144,https://dblp.org/db/journals/datamine/index.html
 TNNLS,IEEE Transactions on Neural Networks and Learning Systems,ai,IEEE,2162-237X,B,10.2,248,https://dblp.org/db/journals/tnn/index.html
 TACL,Transactions of the Association for Computational Linguistics,ai,ACL,2307-387X,B,15.1,117,https://dblp.org/db/journals/tacl/index.html

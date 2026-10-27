@@ -1,22 +1,5 @@
 [
  {
-  "acronym": "CCS",
-  "name": "ACM Conference on Computer and Communications Security",
-  "field": "security",
-  "field_label": "Security",
-  "kind": "ranked",
-  "next_deadline": "2026-04-29",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "November 16-18, 2026",
-  "place": "World Forum, Hague, Netherlands",
-  "link": "https://www.sigsac.org/ccs/CCS2026/",
-  "ccf": "A",
-  "core": "A*",
-  "proceedings": "full",
-  "note": ""
- },
- {
   "acronym": "VLDB",
   "name": "International Conference on Very Large Data Bases",
   "field": "ai",
@@ -731,23 +714,6 @@
   "note": ""
  },
  {
-  "acronym": "ISBI",
-  "name": "IEEE International Symposium on Biomedical Imaging",
-  "field": "biomed",
-  "field_label": "Biomedical",
-  "kind": "ranked",
-  "next_deadline": "2026-10-26",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "May 25-28, 2027",
-  "place": "Lausanne, Switzerland",
-  "link": "https://biomedicalimaging.org/2027/",
-  "ccf": "",
-  "core": "",
-  "proceedings": "full",
-  "note": "Four-page papers, single-blind, presented in person or withdrawn. Deadlines are 11:59pm US Eastern, not Anywhere on Earth. One-page abstracts are posters and are not in the proceedings."
- },
- {
   "acronym": "MLSys",
   "name": "Conference on Machine Learning and Systems",
   "field": "ai",
@@ -1003,6 +969,23 @@
   "note": ""
  },
  {
+  "acronym": "CCS",
+  "name": "ACM Conference on Computer and Communications Security",
+  "field": "security",
+  "field_label": "Security",
+  "kind": "ranked",
+  "next_deadline": "2027-01-09",
+  "deadline_estimated": true,
+  "abstract_deadline": "",
+  "conference_dates": "October 11-15, 2027",
+  "place": "Atlanta, USA",
+  "link": "https://www.sigsac.org/ccs/CCS2027/",
+  "ccf": "A",
+  "core": "A*",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
   "acronym": "IJCAI",
   "name": "International Joint Conference on Artificial Intelligence",
   "field": "ai",
@@ -1066,6 +1049,23 @@
   "place": "Montréal, Canada",
   "link": "https://lics.siglog.org/lics27/",
   "ccf": "A",
+  "core": "A*",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
+  "acronym": "COLT",
+  "name": "Annual Conference on Learning Theory",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2027-01-29",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "June 28 - July 2, 2027",
+  "place": "Tokyo, Japan",
+  "link": "https://learningtheory.org/colt2027/",
+  "ccf": "B",
   "core": "A*",
   "proceedings": "full",
   "note": ""
@@ -1137,23 +1137,6 @@
   "core": "",
   "proceedings": "full",
   "note": "Machine learning for health, 8 to 10 pages, double-blind on OpenReview, proceedings in PMLR. One co-author per paper reviews three. Create OpenReview accounts for every author by 15 January. Meeting dates are tentative."
- },
- {
-  "acronym": "COLT",
-  "name": "Annual Conference on Learning Theory",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2027-02-06",
-  "deadline_estimated": true,
-  "abstract_deadline": "",
-  "conference_dates": "June 28 - July 2, 2027",
-  "place": "Tokyo, Japan",
-  "link": "https://learningtheory.org/colt2027/",
-  "ccf": "B",
-  "core": "A*",
-  "proceedings": "full",
-  "note": ""
  },
  {
   "acronym": "CCC",
@@ -1681,6 +1664,23 @@
   "core": "A",
   "proceedings": "full",
   "note": ""
+ },
+ {
+  "acronym": "ISBI",
+  "name": "IEEE International Symposium on Biomedical Imaging",
+  "field": "biomed",
+  "field_label": "Biomedical",
+  "kind": "ranked",
+  "next_deadline": "2027-10-26",
+  "deadline_estimated": true,
+  "abstract_deadline": "",
+  "conference_dates": "May 25-28, 2027",
+  "place": "Lausanne, Switzerland",
+  "link": "https://biomedicalimaging.org/2027/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "full",
+  "note": "Four-page papers, single-blind, presented in person or withdrawn. Deadlines are 11:59pm US Eastern, not Anywhere on Earth. One-page abstracts are posters and are not in the proceedings. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
  },
  {
   "acronym": "ECCV",
