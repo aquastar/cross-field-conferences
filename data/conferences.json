@@ -1054,6 +1054,23 @@
   "note": ""
  },
  {
+  "acronym": "GECCO",
+  "name": "Genetic and Evolutionary Computation Conference",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2027-01-25",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "July 12-16, 2027",
+  "place": "Kraków, Poland",
+  "link": "https://gecco-2027.sigevo.org/HomePage",
+  "ccf": "C",
+  "core": "A",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
   "acronym": "COLT",
   "name": "Annual Conference on Learning Theory",
   "field": "ai",
@@ -1067,23 +1084,6 @@
   "link": "https://learningtheory.org/colt2027/",
   "ccf": "B",
   "core": "A*",
-  "proceedings": "full",
-  "note": ""
- },
- {
-  "acronym": "GECCO",
-  "name": "Genetic and Evolutionary Computation Conference",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2027-01-29",
-  "deadline_estimated": true,
-  "abstract_deadline": "",
-  "conference_dates": "July 12-16, 2027",
-  "place": "Kraków, Poland",
-  "link": "https://gecco-2027.sigevo.org/HomePage",
-  "ccf": "C",
-  "core": "A",
   "proceedings": "full",
   "note": ""
  },
