@@ -1,5 +1,4 @@
 acronym,name,field,field_label,kind,next_deadline,deadline_estimated,abstract_deadline,conference_dates,place,link,ccf,core,proceedings,note
-VLDB,International Conference on Very Large Data Bases,ai,AI · ML · Data Mining,ranked,2026-05-01,false,,"August 23 - August 27, 2027","Athens, Greece",https://www.vldb.org/2027/,A,A*,full,
 NDSS,Network and Distributed System Security (NDSS) Symposium,security,Security,ranked,2026-05-06,false,,"March 22 - March 26, 2027","Seoul, Republic of Korea",https://www.ndss-symposium.org/ndss2027/,A,A*,full,
 NeurIPS,Conference on Neural Information Processing Systems,ai,AI · ML · Data Mining,ranked,2026-05-07,false,,"December 8-10 (Sydney), December 9-11 (Atlanta and Paris), 2026","Sydney, Australia; Atlanta, USA; Paris, France",https://neurips.cc/Conferences/2026,A,A*,full,
 ISWC,International Semantic Web Conference,ai,AI · ML · Data Mining,ranked,2026-05-07,false,,"October 27-29, 2026","Bari, Italy",https://iswc2026.semanticweb.org/,B,A,full,
@@ -9,6 +8,7 @@ CIKM,ACM International Conference on Information and Knowledge Management,ai,AI 
 EMNLP,The annual Conference on Empirical Methods in Natural Language Processing,ai,AI · ML · Data Mining,ranked,2026-05-25,false,,"October 25-27, 2026","Budapest, Hungary (Hybrid)",https://2026.emnlp.org/,B,A*,full,
 BMVC,British Machine Vision Conference,ai,AI · ML · Data Mining,ranked,2026-05-29,false,,"November 23-26, 2026","Lancaster, UK",https://bmvc2026.bmva.org/,C,A,full,
 PODS,ACM Symposium on Principles of Database Systems,ai,AI · ML · Data Mining,ranked,2026-05-30,false,,"June 13-19, 2027","Huntington Beach, California, USA",https://2027.sigmod.org/,B,A*,full,
+VLDB,International Conference on Very Large Data Bases,ai,AI · ML · Data Mining,ranked,2026-06-01,false,,"August 23 - August 27, 2027","Athens, Greece",https://www.vldb.org/2027/,A,A*,full,
 SIGSPATIAL,ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,ai,AI · ML · Data Mining,ranked,2026-06-05,false,,"November 3-6, 2026","Riverside, CA, USA",https://sigspatial2026.sigspatial.org/,C,A,full,
 ICDM,IEEE International Conference on Data Mining,ai,AI · ML · Data Mining,ranked,2026-06-06,false,,"November 12-15, 2026","Shenyang, China",http://icdm2026.neu.edu.cn/,B,A*,full,
 EDBT,International Conference on Extending Database Technology,ai,AI · ML · Data Mining,ranked,2026-06-10,false,,"April 6-9, 2027","Lille, France",https://edbticdt2027.github.io/,B,A,full,

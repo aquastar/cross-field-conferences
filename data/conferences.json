@@ -1,22 +1,5 @@
 [
  {
-  "acronym": "VLDB",
-  "name": "International Conference on Very Large Data Bases",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2026-05-01",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "August 23 - August 27, 2027",
-  "place": "Athens, Greece",
-  "link": "https://www.vldb.org/2027/",
-  "ccf": "A",
-  "core": "A*",
-  "proceedings": "full",
-  "note": ""
- },
- {
   "acronym": "NDSS",
   "name": "Network and Distributed System Security (NDSS) Symposium",
   "field": "security",
@@ -165,6 +148,23 @@
   "place": "Huntington Beach, California, USA",
   "link": "https://2027.sigmod.org/",
   "ccf": "B",
+  "core": "A*",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
+  "acronym": "VLDB",
+  "name": "International Conference on Very Large Data Bases",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2026-06-01",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "August 23 - August 27, 2027",
+  "place": "Athens, Greece",
+  "link": "https://www.vldb.org/2027/",
+  "ccf": "A",
   "core": "A*",
   "proceedings": "full",
   "note": ""

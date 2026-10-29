@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-28. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-10-29. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -64,7 +64,6 @@ venue's own page before you plan around it.
 | [**SDM**](https://www.siam.org/conferences-events/siam-conferences/sdm26/) SIAM International Conference on Data Mining | ~2027-10-04 |  | CCF B · CORE A |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
-| [**VLDB**](https://www.vldb.org/2027/) International Conference on Very Large Data Bases | 2026-05-01 (passed) | August 23 - August 27, 2027, Athens, Greece | CCF A · CORE A* |
 | [**ISWC**](https://iswc2026.semanticweb.org/) International Semantic Web Conference | 2026-05-07 (passed) | October 27-29, 2026, Bari, Italy | CCF B · CORE A |
 | [**NeurIPS**](https://neurips.cc/Conferences/2026) Conference on Neural Information Processing Systems | 2026-05-07 (passed) | December 8-10 (Sydney), December 9-11 (Atlanta and Paris), 2026, Sydney, Australia; Atlanta, USA; Paris, France | CCF A · CORE A* |
 | [**ICWSM**](https://www.icwsm.org/2027/) The International AAAI Conference on Web and Social Media | 2026-05-15 (passed) | TBD, Edinburgh, Scotland | CCF B · CORE A |
@@ -73,6 +72,7 @@ venue's own page before you plan around it.
 | [**EMNLP**](https://2026.emnlp.org/) The annual Conference on Empirical Methods in Natural Language Processing | 2026-05-25 (passed) | October 25-27, 2026, Budapest, Hungary (Hybrid) | CCF B · CORE A* |
 | [**BMVC**](https://bmvc2026.bmva.org/) British Machine Vision Conference | 2026-05-29 (passed) | November 23-26, 2026, Lancaster, UK | CCF C · CORE A |
 | [**PODS**](https://2027.sigmod.org/) ACM Symposium on Principles of Database Systems | 2026-05-30 (passed) | June 13-19, 2027, Huntington Beach, California, USA | CCF B · CORE A* |
+| [**VLDB**](https://www.vldb.org/2027/) International Conference on Very Large Data Bases | 2026-06-01 (passed) | August 23 - August 27, 2027, Athens, Greece | CCF A · CORE A* |
 | [**SIGSPATIAL**](https://sigspatial2026.sigspatial.org/) ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems | 2026-06-05 (passed) | November 3-6, 2026, Riverside, CA, USA | CCF C · CORE A |
 | [**ICDM**](http://icdm2026.neu.edu.cn/) IEEE International Conference on Data Mining | 2026-06-06 (passed) | November 12-15, 2026, Shenyang, China | CCF B · CORE A* |
 | [**EDBT**](https://edbticdt2027.github.io/) International Conference on Extending Database Technology | 2026-06-10 (passed) | April 6-9, 2027, Lille, France | CCF B · CORE A |
