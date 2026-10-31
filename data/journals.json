@@ -61,7 +61,7 @@
   "publisher": "IEEE",
   "issn": "1545-5971",
   "ccf": "A",
-  "citations_per_paper": 4.4,
+  "citations_per_paper": 4.5,
   "h_index": 136,
   "link": "https://dblp.org/db/journals/tdsc/index.html"
  },
@@ -83,7 +83,7 @@
   "publisher": "Springer (IACR)",
   "issn": "0933-2790",
   "ccf": "A",
-  "citations_per_paper": 3.5,
+  "citations_per_paper": 3.4,
   "h_index": 122,
   "link": "https://dblp.org/db/journals/joc/index.html"
  },
@@ -171,7 +171,7 @@
   "publisher": "IEEE / ACM",
   "issn": "2329-9290",
   "ccf": "B",
-  "citations_per_paper": 12.7,
+  "citations_per_paper": 12.8,
   "h_index": 119,
   "link": "https://dblp.org/db/journals/taslp/index.html"
  },
@@ -237,7 +237,7 @@
   "publisher": "IEEE CSS",
   "issn": "0018-9286",
   "ccf": "N",
-  "citations_per_paper": 6,
+  "citations_per_paper": 6.1,
   "h_index": 480,
   "link": "https://dblp.org/db/journals/tac/index.html"
  },
@@ -314,7 +314,7 @@
   "publisher": "Elsevier (IFAC)",
   "issn": "1367-5788",
   "ccf": "N",
-  "citations_per_paper": 14.3,
+  "citations_per_paper": 14.4,
   "h_index": 132,
   "link": "https://dblp.org/db/journals/arc/index.html"
  },
@@ -336,7 +336,7 @@
   "publisher": "AIP",
   "issn": "1054-1500",
   "ccf": "N",
-  "citations_per_paper": 3.9,
+  "citations_per_paper": 4,
   "h_index": 156,
   "link": ""
  },
@@ -578,7 +578,7 @@
   "publisher": "INFORMS",
   "issn": "0899-1499",
   "ccf": "B",
-  "citations_per_paper": 1.8,
+  "citations_per_paper": 1.9,
   "h_index": 130,
   "link": "https://dblp.org/db/journals/informs/index.html"
  },
@@ -645,7 +645,7 @@
   "issn": "1097-6256",
   "ccf": "N",
   "citations_per_paper": 18.4,
-  "h_index": 593,
+  "h_index": 594,
   "link": ""
  },
  {
@@ -732,7 +732,7 @@
   "publisher": "Cell Press",
   "issn": "1364-6613",
   "ccf": "N",
-  "citations_per_paper": 10.9,
+  "citations_per_paper": 10.8,
   "h_index": 457,
   "link": ""
  },
@@ -776,7 +776,7 @@
   "publisher": "Springer",
   "issn": "1069-9384",
   "ccf": "N",
-  "citations_per_paper": 3.2,
+  "citations_per_paper": 3.3,
   "h_index": 232,
   "link": ""
  },
@@ -853,7 +853,7 @@
   "publisher": "Elsevier",
   "issn": "2589-7500",
   "ccf": "N",
-  "citations_per_paper": 16.8,
+  "citations_per_paper": 16.9,
   "h_index": 132,
   "link": ""
  },
@@ -996,7 +996,7 @@
   "publisher": "Nature Portfolio",
   "issn": "2057-3960",
   "ccf": "N",
-  "citations_per_paper": 11.3,
+  "citations_per_paper": 11.4,
   "h_index": 139,
   "link": ""
  },
@@ -1249,7 +1249,7 @@
   "publisher": "APS",
   "issn": "2160-3308",
   "ccf": "N",
-  "citations_per_paper": 11.3,
+  "citations_per_paper": 11.4,
   "h_index": 229,
   "link": ""
  },
@@ -1260,7 +1260,7 @@
   "publisher": "APS",
   "issn": "0034-6861",
   "ccf": "N",
-  "citations_per_paper": 35.5,
+  "citations_per_paper": 35.6,
   "h_index": 618,
   "link": ""
  },
@@ -1647,6 +1647,50 @@
   "ccf": "N",
   "citations_per_paper": 0.5,
   "h_index": 50,
+  "link": ""
+ },
+ {
+  "acronym": "IJDP",
+  "name": "International Journal of Divination and Prognostication",
+  "field": "divination",
+  "publisher": "Brill (ISCSD)",
+  "issn": "2589-9198",
+  "ccf": "N",
+  "citations_per_paper": 0.1,
+  "h_index": 2,
+  "link": ""
+ },
+ {
+  "acronym": "C&C",
+  "name": "Culture and Cosmos",
+  "field": "divination",
+  "publisher": "Sophia Centre Press",
+  "issn": "1368-6534",
+  "ccf": "N",
+  "citations_per_paper": "",
+  "h_index": "",
+  "link": ""
+ },
+ {
+  "acronym": "Aries",
+  "name": "Aries: Journal for the Study of Western Esotericism",
+  "field": "divination",
+  "publisher": "Brill (ESSWE)",
+  "issn": "1567-9896",
+  "ccf": "N",
+  "citations_per_paper": 0.4,
+  "h_index": 17,
+  "link": ""
+ },
+ {
+  "acronym": "JSA",
+  "name": "Journal of Skyscape Archaeology",
+  "field": "divination",
+  "publisher": "Equinox",
+  "issn": "2055-348X",
+  "ccf": "N",
+  "citations_per_paper": 0.2,
+  "h_index": 9,
   "link": ""
  },
  {

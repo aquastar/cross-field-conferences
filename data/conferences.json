@@ -714,23 +714,6 @@
   "note": ""
  },
  {
-  "acronym": "MLSys",
-  "name": "Conference on Machine Learning and Systems",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2026-10-30",
-  "deadline_estimated": true,
-  "abstract_deadline": "",
-  "conference_dates": "",
-  "place": "",
-  "link": "https://mlsys.org/",
-  "ccf": "",
-  "core": "",
-  "proceedings": "full",
-  "note": "Full proceedings. Unranked by both CCF and CORE despite being the main ML-systems venue."
- },
- {
   "acronym": "ECC",
   "name": "European Control Conference",
   "field": "control",
@@ -1683,6 +1666,23 @@
   "note": "Four-page papers, single-blind, presented in person or withdrawn. Deadlines are 11:59pm US Eastern, not Anywhere on Earth. One-page abstracts are posters and are not in the proceedings. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
  },
  {
+  "acronym": "MLSys",
+  "name": "Conference on Machine Learning and Systems",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2027-10-30",
+  "deadline_estimated": true,
+  "abstract_deadline": "",
+  "conference_dates": "",
+  "place": "",
+  "link": "https://mlsys.org/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "full",
+  "note": "Full proceedings. Unranked by both CCF and CORE despite being the main ML-systems venue."
+ },
+ {
   "acronym": "ECCV",
   "name": "European Conference on Computer Vision",
   "field": "ai",
@@ -1783,6 +1783,23 @@
   "core": "",
   "proceedings": "none",
   "note": "The largest Earth and space science meeting, 25,000 or more attendees from over 100 countries. AGU26 runs 7 to 11 December 2026 in San Francisco and its late-breaking abstracts close on 20 October 2026. The date shown is the regular abstract deadline for the cycle after it. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
+ },
+ {
+  "acronym": "ESSWE",
+  "name": "European Society for the Study of Western Esotericism Conference",
+  "field": "divination",
+  "field_label": "Divination & astrology",
+  "kind": "notable",
+  "next_deadline": "",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "June 16-19, 2027",
+  "place": "Turku, Finland",
+  "link": "https://www.esswe.org/current-conference",
+  "ccf": "",
+  "core": "",
+  "proceedings": "none",
+  "note": "Every two years. ESSWE11 is hosted by the University of Turku with Åbo Akademi University. The society said the call for papers would open in October 2026, so the deadline is not out yet."
  },
  {
   "acronym": "ICIAM",
@@ -2023,6 +2040,40 @@
   "note": "The 30th annual meeting, at the Beijing International Convention Center, drawing cognitive science, neuroscience, medicine and philosophy. Dreaming sits inside its remit as a state of consciousness. The organizers say details are still to come, so no submission date is published yet."
  },
  {
+  "acronym": "INSAP",
+  "name": "Inspiration of Astronomical Phenomena Conference",
+  "field": "divination",
+  "field_label": "Divination & astrology",
+  "kind": "notable",
+  "next_deadline": "",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "October 5-11, 2026",
+  "place": "Rome, Italy",
+  "link": "https://indico.ict.inaf.it/event/3535/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "none",
+  "note": "Started at the Vatican Observatory in 1994. The 14th meeting, \"All Roads Lead to the Sky\", runs across the Rome observatory and Vatican sites. The 12th was in Corfu in 2024 and the 13th in Belfast in 2025. The next one is not announced."
+ },
+ {
+  "acronym": "SEAC",
+  "name": "European Society for Astronomy in Culture Annual Meeting",
+  "field": "divination",
+  "field_label": "Divination & astrology",
+  "kind": "notable",
+  "next_deadline": "",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "September 4-8, 2026",
+  "place": "Volos, Greece",
+  "link": "https://seac2026.uth.gr/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "none",
+  "note": "The yearly meeting of cultural astronomy, from archaeoastronomy to the history of astrology. The 2026 meeting, the 33rd, was hosted by the University of Thessaly, and its papers go to an online proceedings volume after the meeting. The 2027 meeting is not announced."
+ },
+ {
   "acronym": "SIAM MDS",
   "name": "SIAM Conference on Mathematics of Data Science",
   "field": "amath",
@@ -2038,6 +2089,23 @@
   "core": "",
   "proceedings": "none",
   "note": "Biennial, even years. Where the mathematical side of data science meets. The date shown is the abstract deadline. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
+ },
+ {
+  "acronym": "ISCSD",
+  "name": "International Society for the Critical Study of Divination Conference",
+  "field": "divination",
+  "field_label": "Divination & astrology",
+  "kind": "notable",
+  "next_deadline": "",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "November 5-8, 2026",
+  "place": "Erlangen, Germany",
+  "link": "https://criticaldivination.org/2026/01/31/1st-international-iscsd-conference-predictive-practices-interpretations/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "none",
+  "note": "The society's first international conference, \"Predictive Practices and Interpretations\", at Friedrich-Alexander University Erlangen-Nürnberg with the Knowing Hands project. Astrology, palmistry, omen texts and the materials of prediction all fit. Abstracts were due April 1, 2026, with no extensions. Registration includes a year of membership and the society's journal, IJDP. A second meeting is not announced."
  },
  {
   "acronym": "IASD",
@@ -2861,8 +2929,8 @@
   "field": "uq",
   "field_label": "UQ & statistics",
   "kind": "notable",
-  "next_deadline": "2026-10-30",
-  "deadline_estimated": false,
+  "next_deadline": "2028-10-30",
+  "deadline_estimated": true,
   "abstract_deadline": "",
   "conference_dates": "June 13-16, 2027",
   "place": "Hersonissos, Crete, Greece",
@@ -2870,7 +2938,7 @@
   "ccf": "",
   "core": "",
   "proceedings": "optin",
-  "note": "The engineering side of UQ, held with COMPDYN. A one-page abstract gets you on the programme; a full paper, optional, goes into the ECCOMAS proceedings."
+  "note": "The engineering side of UQ, held with COMPDYN. A one-page abstract gets you on the programme; a full paper, optional, goes into the ECCOMAS proceedings. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
  },
  {
   "acronym": "QCrypt",

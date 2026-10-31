@@ -1,7 +1,7 @@
 # Cross-field conference deadlines
 
-Submission deadlines, meeting dates and places for **172 conferences and
-156 journals across 27 fields**, from AI and security to epidemiology,
+Submission deadlines, meeting dates and places for **176 conferences and
+160 journals across 28 fields**, from AI and security to epidemiology,
 sleep research, philosophy and theology. Most deadline lists cover computer science only; this
 one follows the meetings a researcher working across fields actually needs.
 
@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-30. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-10-31. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [UNCECOMP](https://2027.uncecomp.org/) | UQ & statistics | 2026-10-30 |
 | [ECC](https://ecc27.euca-ecc.org/) | Control | 2026-10-31 |
 | [STOC](https://acm-stoc.org/stoc2027/) | Theoretical CS | 2026-11-02 |
 | [CNS](https://www.cogneurosociety.org/submit-a-poster/) | Cognitive neuroscience | 2026-11-03 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [APS Annual Convention](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) | Psychology | 2026-12-01 |
 | [NetSci](https://netsci2027.github.io/) | Network science | 2026-12-01 |
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
+| [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 
 ## Computing
 
@@ -40,7 +40,6 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2026-10-30 |  |  |
 | [**CVPR**](https://cvpr.thecvf.com/Conferences/2027) IEEE/CVF Conference on Computer Vision and Pattern Recognition | 2026-11-16 | June 20-25, 2027, Seattle, WA, United States | CCF A · CORE A* |
 | [**DASFAA**](https://dasfaa2027.github.io/) Database Systems for Advanced Applications | 2026-11-25 | May 27-30, 2027, Shenyang, China | CCF B · CORE B |
 | [**ECML-PKDD**](https://ecmlpkdd.org/2027/) European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases | ~2026-12-13 | September 20-24, 2027, Eindhoven, The Netherlands | CCF B · CORE A |
@@ -62,6 +61,7 @@ venue's own page before you plan around it.
 | [**KR**](https://kr.org/KR2027/) International Conference on Principles of Knowledge Representation and Reasoning | 2027-04-28 | September 21-24, 2027, Buenos Aires, Argentina | CCF B · CORE A* |
 | [**ASONAM**](https://asonam.cpsc.ucalgary.ca/2026/CFP.php) IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining | ~2027-05-10 |  | CCF C · CORE B |
 | [**SDM**](https://www.siam.org/conferences-events/siam-conferences/sdm26/) SIAM International Conference on Data Mining | ~2027-10-04 |  | CCF B · CORE A |
+| [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
 | [**ISWC**](https://iswc2026.semanticweb.org/) International Semantic Web Conference | 2026-05-07 (passed) | October 27-29, 2026, Bari, Italy | CCF B · CORE A |
@@ -208,9 +208,9 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**UNCECOMP**](https://2027.uncecomp.org/) ECCOMAS Conference on Uncertainty Quantification in Computational Sciences and Engineering | 2026-10-30 | June 13-16, 2027, Hersonissos, Crete, Greece |  |
 | [**JSM**](https://ww2.amstat.org/meetings/jsm/2027/submissions.cfm) Joint Statistical Meetings | 2027-02-01 |  |  |
 | [**SIAM UQ**](https://www.siam.org/conferences-events/siam-conferences/uq26/) SIAM Conference on Uncertainty Quantification | ~2027-09-22 |  |  |
+| [**UNCECOMP**](https://2027.uncecomp.org/) ECCOMAS Conference on Uncertainty Quantification in Computational Sciences and Engineering | ~2028-10-30 | June 13-16, 2027, Hersonissos, Crete, Greece |  |
 
 [See UQ & statistics on the site](https://zhiqian.ai/conferences#uq)
 
@@ -403,6 +403,17 @@ venue's own page before you plan around it.
 
 [See Theology on the site](https://zhiqian.ai/conferences#theology)
 
+### Divination & astrology
+
+| Venue | Next deadline | Meeting | Rank |
+|---|---|---|---|
+| [**ESSWE**](https://www.esswe.org/current-conference) European Society for the Study of Western Esotericism Conference | not published | June 16-19, 2027, Turku, Finland |  |
+| [**INSAP**](https://indico.ict.inaf.it/event/3535/) Inspiration of Astronomical Phenomena Conference | not published | October 5-11, 2026, Rome, Italy |  |
+| [**ISCSD**](https://criticaldivination.org/2026/01/31/1st-international-iscsd-conference-predictive-practices-interpretations/) International Society for the Critical Study of Divination Conference | not published | November 5-8, 2026, Erlangen, Germany |  |
+| [**SEAC**](https://seac2026.uth.gr/) European Society for Astronomy in Culture Annual Meeting | not published | September 4-8, 2026, Volos, Greece |  |
+
+[See Divination & astrology on the site](https://zhiqian.ai/conferences#divination)
+
 ## Data
 
 | File | What it holds |
@@ -410,7 +421,7 @@ venue's own page before you plan around it.
 | [`data/conferences.json`](data/conferences.json) / [`.csv`](data/conferences.csv) | Every venue: deadline, dates, place, CCF and CORE rank, link |
 | [`data/journals.json`](data/journals.json) / [`.csv`](data/journals.csv) | The journals each field publishes in, with citation figures |
 | [`data/destinations.json`](data/destinations.json) | Upcoming editions with coordinates, as drawn on the map |
-| [`data/fields.json`](data/fields.json) | The 27 fields and how each one publishes |
+| [`data/fields.json`](data/fields.json) | The 28 fields and how each one publishes |
 
 Sources: CCF ranks via [ccf-deadlines](https://github.com/ccfddl/ccf-deadlines), CORE ranks from
 the [CORE portal](https://portal.core.edu.au), acceptance figures via
