@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-31. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-01. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [ECC](https://ecc27.euca-ecc.org/) | Control | 2026-10-31 |
 | [STOC](https://acm-stoc.org/stoc2027/) | Theoretical CS | 2026-11-02 |
 | [CNS](https://www.cogneurosociety.org/submit-a-poster/) | Cognitive neuroscience | 2026-11-03 |
 | [PES GM](https://pes-gm.org/2027-san-francisco/) | Power & energy | 2026-11-10 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [NetSci](https://netsci2027.github.io/) | Network science | 2026-12-01 |
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
+| [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
 
 ## Computing
 
@@ -242,10 +242,10 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**ECC**](https://ecc27.euca-ecc.org/) European Control Conference | 2026-10-31 | July 13-16, 2027, Brussels, Belgium |  |
 | [**L4DC**](https://l4dc2027.control.ee.ethz.ch/) Learning for Dynamics and Control Conference | 2026-11-13 | June 16-18, 2027, Stockholm, Sweden |  |
 | [**CDC**](https://cdc2027.ieeecss.org/) IEEE Conference on Decision and Control | 2027-03-17 | December 14-17, 2027, Lisbon, Portugal |  |
 | [**ACC**](https://acc2027.a2c2.org/) American Control Conference | ~2027-09-11 | July 7-9, 2027, Philadelphia, Pennsylvania, USA |  |
+| [**ECC**](https://ecc27.euca-ecc.org/) European Control Conference | ~2027-10-31 | July 13-16, 2027, Brussels, Belgium |  |
 
 [See Control on the site](https://zhiqian.ai/conferences#control)
 

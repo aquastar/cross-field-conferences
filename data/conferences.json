@@ -714,23 +714,6 @@
   "note": ""
  },
  {
-  "acronym": "ECC",
-  "name": "European Control Conference",
-  "field": "control",
-  "field_label": "Control",
-  "kind": "ranked",
-  "next_deadline": "2026-10-31",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "July 13-16, 2027",
-  "place": "Brussels, Belgium",
-  "link": "https://ecc27.euca-ecc.org/",
-  "ccf": "",
-  "core": "",
-  "proceedings": "full",
-  "note": "The conference of the European Control Association, 25th edition, at the UCLouvain campus in Woluwe. Full archival proceedings on IEEE Xplore."
- },
- {
   "acronym": "STOC",
   "name": "ACM Symposium on the Theory of Computing",
   "field": "theory",
@@ -1681,6 +1664,23 @@
   "core": "",
   "proceedings": "full",
   "note": "Full proceedings. Unranked by both CCF and CORE despite being the main ML-systems venue."
+ },
+ {
+  "acronym": "ECC",
+  "name": "European Control Conference",
+  "field": "control",
+  "field_label": "Control",
+  "kind": "ranked",
+  "next_deadline": "2027-10-31",
+  "deadline_estimated": true,
+  "abstract_deadline": "",
+  "conference_dates": "July 13-16, 2027",
+  "place": "Brussels, Belgium",
+  "link": "https://ecc27.euca-ecc.org/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "full",
+  "note": "The conference of the European Control Association, 25th edition, at the UCLouvain campus in Woluwe. Full archival proceedings on IEEE Xplore. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
  },
  {
   "acronym": "ECCV",
