@@ -9,7 +9,7 @@ TIFS,IEEE Transactions on Information Forensics and Security,security,IEEE,1556-
 JoC,Journal of Cryptology,security,Springer (IACR),0933-2790,A,3.4,122,https://dblp.org/db/journals/joc/index.html
 TOPS,ACM Transactions on Privacy and Security,security,ACM,2471-2566,B,4.6,41,https://dblp.org/db/journals/tissec/index.html
 Computers & Security,Computers & Security,security,Elsevier,0167-4048,B,9.5,168,https://dblp.org/db/journals/compsec/index.html
-JCS,Journal of Computer Security,security,IOS Press,0926-227X,B,1.8,77,https://dblp.org/db/journals/jcs/index.html
+JCS,Journal of Computer Security,security,IOS Press,0926-227X,B,1.7,77,https://dblp.org/db/journals/jcs/index.html
 TCAD,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,eda,IEEE,0278-0070,A,3.2,191,https://dblp.org/db/journals/tcad/index.html
 TC,IEEE Transactions on Computers,eda,IEEE,0018-9340,A,4.1,260,https://dblp.org/db/journals/tc/index.html
 TODAES,ACM Transactions on Design Automation of Electronic Systems,eda,ACM,1084-4309,B,3.2,68,https://dblp.org/db/journals/todaes/index.html
@@ -19,7 +19,7 @@ TISMIR,Transactions of the International Society for Music Information Retrieval
 EURASIP JASMP,"EURASIP Journal on Audio, Speech, and Music Processing",audio,Springer,1687-4714,N,4.2,42,https://dblp.org/db/journals/ejasmp/index.html
 JAES,Journal of the Audio Engineering Society,audio,AES,1549-4950,N,1.1,80,
 IJF,International Journal of Forecasting,ts,Elsevier (IIF),0169-2070,N,4.3,191,
-JTSA,Journal of Time Series Analysis,ts,Wiley,0143-9782,N,1.4,111,
+JTSA,Journal of Time Series Analysis,ts,Wiley,0143-9782,N,1.3,111,
 TAC,IEEE Transactions on Automatic Control,control,IEEE CSS,0018-9286,N,6.1,480,https://dblp.org/db/journals/tac/index.html
 Automatica,Automatica,control,Elsevier (IFAC),0005-1098,N,6.3,402,https://dblp.org/db/journals/automatica/index.html
 SICON,SIAM Journal on Control and Optimization,control,SIAM,0363-0129,N,2.8,199,https://dblp.org/db/journals/siamco/index.html
@@ -49,7 +49,7 @@ JASA,Journal of the American Statistical Association,uq,ASA / Taylor & Francis,0
 AoS,The Annals of Statistics,uq,IMS,0090-5364,N,3.8,326,
 Math. Prog.,Mathematical Programming,opt,Springer (MOS),0025-5610,N,2,241,https://dblp.org/db/journals/mp/index.html
 SIOPT,SIAM Journal on Optimization,opt,SIAM,1052-6234,N,3.3,189,https://dblp.org/db/journals/siamjo/index.html
-OR,Operations Research,opt,INFORMS,0030-364X,N,4.1,303,https://dblp.org/db/journals/ior/index.html
+OR,Operations Research,opt,INFORMS,0030-364X,N,4.2,303,https://dblp.org/db/journals/ior/index.html
 MS,Management Science,opt,INFORMS,0025-1909,N,7.8,490,https://dblp.org/db/journals/mansci/index.html
 IJOC,INFORMS Journal on Computing,opt,INFORMS,0899-1499,B,1.9,130,https://dblp.org/db/journals/informs/index.html
 SIAM Review,SIAM Review,amath,SIAM,0036-1445,N,3.1,235,https://dblp.org/db/journals/siamrev/index.html
@@ -64,8 +64,8 @@ HBM,Human Brain Mapping,neuro,Wiley,1065-9471,N,5.1,271,
 PLOS Comp Bio,PLOS Computational Biology,neuro,PLOS,1553-734X,B,4.7,282,https://dblp.org/db/journals/ploscb/index.html
 eLife,eLife,neuro,eLife,2050-084X,N,2.1,311,
 Psych. Review,Psychological Review,psych,APA,0033-295X,N,6.6,505,
-Psych. Science,Psychological Science,psych,SAGE (APS),0956-7976,N,6.5,416,
-TiCS,Trends in Cognitive Sciences,psych,Cell Press,1364-6613,N,10.9,457,
+Psych. Science,Psychological Science,psych,SAGE (APS),0956-7976,N,6.4,416,
+TiCS,Trends in Cognitive Sciences,psych,Cell Press,1364-6613,N,10.8,457,
 JEP: General,Journal of Experimental Psychology: General,psych,APA,0096-3445,N,2.3,297,
 Cognition,Cognition,psych,Elsevier,0010-0277,N,3.2,354,
 Cognitive Science,Cognitive Science,psych,Wiley,0364-0213,N,1.9,238,https://dblp.org/db/journals/cogsci/index.html
@@ -76,8 +76,8 @@ JSR,Journal of Sleep Research,sleep,Wiley (ESRS),0962-1105,N,3.8,177,
 Dreaming,Dreaming,sleep,APA (IASD),1053-0797,N,0.7,54,
 IJoDR,International Journal of Dream Research,sleep,Heidelberg University,1866-7953,N,0.1,23,
 JAMIA,Journal of the American Medical Informatics Association,biomed,Oxford (AMIA),1067-5027,B,11.9,232,https://dblp.org/db/journals/jamia/index.html
-Lancet Digit. Health,The Lancet Digital Health,biomed,Elsevier,2589-7500,N,17,132,
-npj Digit. Med.,npj Digital Medicine,biomed,Nature Portfolio,2398-6352,N,14.3,168,
+Lancet Digit. Health,The Lancet Digital Health,biomed,Elsevier,2589-7500,N,16.9,132,
+npj Digit. Med.,npj Digital Medicine,biomed,Nature Portfolio,2398-6352,N,14.3,167,
 MedIA,Medical Image Analysis,biomed,Elsevier,1361-8415,C,12.6,222,https://dblp.org/db/journals/mia/index.html
 TMI,IEEE Transactions on Medical Imaging,biomed,IEEE,0278-0062,B,10.6,329,https://dblp.org/db/journals/tmi/index.html
 TBME,IEEE Transactions on Biomedical Engineering,biomed,IEEE,0018-9294,N,4.2,310,https://dblp.org/db/journals/tbe/index.html
@@ -88,7 +88,7 @@ Lancet Inf. Dis.,The Lancet Infectious Diseases,epi,Elsevier,1473-3099,N,12.4,37
 Eurosurveillance,Eurosurveillance,epi,ECDC,1025-496X,N,8.2,173,
 AJE,American Journal of Epidemiology,epi,Oxford,0002-9262,N,3.2,416,
 IDM,Infectious Disease Modelling,epi,KeAi,2468-0427,N,2.8,46,
-Nat. Mater.,Nature Materials,materials,Nature Portfolio,1476-1122,N,24.2,653,
+Nat. Mater.,Nature Materials,materials,Nature Portfolio,1476-1122,N,24.3,653,
 npj Comput. Mater.,npj Computational Materials,materials,Nature Portfolio,2057-3960,N,11.4,139,
 Digital Discovery,Digital Discovery,materials,RSC,2635-098X,N,5.9,46,
 Acta Mater.,Acta Materialia,materials,Elsevier,1359-6454,N,11.1,422,
@@ -112,12 +112,12 @@ TQE,IEEE Transactions on Quantum Engineering,quantum,IEEE,2689-1808,N,4.3,46,
 TQC,ACM Transactions on Quantum Computing,quantum,ACM,2643-6809,N,5.7,31,
 PRL,Physical Review Letters,physics,APS,0031-9007,N,9.2,979,
 Nat. Phys.,Nature Physics,physics,Nature Portfolio,1745-2473,N,12,407,
-PRX,Physical Review X,physics,APS,2160-3308,N,11.4,229,
+PRX,Physical Review X,physics,APS,2160-3308,N,11.3,229,
 RMP,Reviews of Modern Physics,physics,APS,0034-6861,N,35.6,618,
 PRB,Physical Review B,physics,APS,1098-0121,N,,,
 PRD,Physical Review D,physics,APS,1550-7998,N,,,
 Annals,Annals of Mathematics,math,Princeton / IAS,0003-486X,N,8.6,325,
-Acta,Acta Mathematica,math,Institut Mittag-Leffler,0001-5962,N,6.3,202,
+Acta,Acta Mathematica,math,Institut Mittag-Leffler,0001-5962,N,6.2,202,
 Inventiones,Inventiones mathematicae,math,Springer,0020-9910,N,4,257,
 JAMS,Journal of the American Mathematical Society,math,AMS,0894-0347,N,4.5,172,
 Publ. IHÉS,Publications mathématiques de l'IHÉS,math,Springer / IHÉS,0073-8301,N,6.3,153,

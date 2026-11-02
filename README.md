@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-01. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-02. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -53,7 +53,7 @@ venue's own page before you plan around it.
 | [**UAI**](https://www.auai.org/uai2026/) Conference on Uncertainty in Artificial Intelligence | ~2027-02-10 |  | CCF B · CORE A |
 | [**ICCBR**](https://2026.iccbr.org/) International Conference on Case-Based Reasoning | ~2027-02-26 |  | CCF B · CORE C |
 | [**ICDAR**]() International Conference on Document Analysis and Recognition | 2027-02-28 |  | CCF C · CORE A |
-| [**IROS**](https://2027.ieee-iros.org/) IEEE/RSJ International Conference on Intelligent Robots and Systems | 2027-03-01 | September 26 - October 1, 2027, Florence, Italy | CCF C · CORE A |
+| [**IROS**](https://2027.ieee-iros.org/) IEEE/RSJ International Conference on Intelligent Robots and Systems | 2027-03-01 | September 27 - October 1, 2027, Florence, Italy | CCF C · CORE A |
 | [**ICCV**](https://iccv.thecvf.com/Conferences/2027) IEEE International Conference on Computer Vision | ~2027-03-08 | October 2-8, 2027, Hong Kong, China | CCF A · CORE A* |
 | [**COLM**](https://colm.cc/) Conference on Language Modeling | ~2027-03-31 |  |  |
 | [**RecSys**](https://recsys.acm.org/recsys27/) ACM Conference on Recommender Systems | ~2027-04-08 | August 23-27, 2027, Honolulu, O‘ahu, Hawaii, USA | CCF B · CORE A |
