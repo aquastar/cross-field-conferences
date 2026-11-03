@@ -1,6 +1,6 @@
 # Cross-field conference deadlines
 
-Submission deadlines, meeting dates and places for **176 conferences and
+Submission deadlines, meeting dates and places for **177 conferences and
 160 journals across 28 fields**, from AI and security to epidemiology,
 sleep research, philosophy and theology. Most deadline lists cover computer science only; this
 one follows the meetings a researcher working across fields actually needs.
@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-02. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-03. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [STOC](https://acm-stoc.org/stoc2027/) | Theoretical CS | 2026-11-02 |
 | [CNS](https://www.cogneurosociety.org/submit-a-poster/) | Cognitive neuroscience | 2026-11-03 |
 | [PES GM](https://pes-gm.org/2027-san-francisco/) | Power & energy | 2026-11-10 |
 | [L4DC](https://l4dc2027.control.ee.ethz.ch/) | Control | 2026-11-13 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
+| [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
 
 ## Computing
 
@@ -127,7 +127,6 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**STOC**](https://acm-stoc.org/stoc2027/) ACM Symposium on the Theory of Computing | 2026-11-02 | June 6-11, 2027, Atlanta, Georgia, USA | CCF A · CORE A* |
 | [**SOCG**](https://cgweek27.computational-geometry.org/) International Symposium on Computational Geometry | ~2026-12-03 | June 21-25, 2027, Bengaluru, India | CCF B · CORE A |
 | [**LICS**](https://lics.siglog.org/lics27/) IEEE Symposium on Logic in Computer Science | ~2027-01-23 | June 21-24, 2027, Montréal, Canada | CCF A · CORE A* |
 | [**CCC**](https://computationalcomplexity.org/) Computational Complexity Conference | ~2027-02-07 | July 19-22, 2027, Seattle, Washington, USA | CCF B · CORE A |
@@ -135,6 +134,7 @@ venue's own page before you plan around it.
 | [**ESA**](https://algo-conference.org/2026/esa/) European Symposium on Algorithms | ~2027-04-23 |  | CCF B · CORE A |
 | [**SODA**](https://www.siam.org/conferences-events/siam-conferences/soda27/) ACM-SIAM Symposium on Discrete Algorithms | 2026-07-09 (passed) | January 24-27, 2027, Philadelphia, Pennsylvania, USA | CCF A · CORE A* |
 | [**ICALP**](https://icalp.uj.edu.pl/) EATCS International Colloquium on Automata, Languages, and Programming | 2026-09-15 (passed) | July 5-9, 2027, Kraków, Poland | CCF B · CORE A |
+| [**STOC**](https://acm-stoc.org/stoc2027/) ACM Symposium on the Theory of Computing | 2026-11-02 (passed) | June 6-11, 2027, Atlanta, Georgia, USA | CCF A · CORE A* |
 
 [See Theoretical CS on the site](https://zhiqian.ai/conferences#theory)
 
@@ -168,6 +168,7 @@ venue's own page before you plan around it.
 | [**ISMIR**](https://ismir2026.ismir.net/) International Society for Music Information Retrieval Conference | ~2027-04-27 | November 8-12, 2026, Abu Dhabi, United Arab Emirates |  |
 | [**DCASE**](https://dcase.community/workshop2026) Detection and Classification of Acoustic Scenes and Events Workshop | ~2027-07-12 | October 27-29, 2026, Medford, Massachusetts, USA |  |
 | [**ICASSP**](https://2027.ieeeicassp.org/) IEEE International Conference on Acoustics, Speech, and Signal Processing | 2026-09-23 (passed) | May 16-21, 2027, Toronto, Canada | CCF B · CORE B |
+| [**SANE**](https://www.saneworkshop.org/sane2026/) Speech and Audio in the Northeast | not published | October 30, 2026 at MIT, 13th edition. 2027 not announced, Alternates between Boston and New York, USA |  |
 
 [See Music & Audio on the site](https://zhiqian.ai/conferences#audio)
 
