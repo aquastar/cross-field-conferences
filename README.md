@@ -1,6 +1,6 @@
 # Cross-field conference deadlines
 
-Submission deadlines, meeting dates and places for **177 conferences and
+Submission deadlines, meeting dates and places for **176 conferences and
 160 journals across 28 fields**, from AI and security to epidemiology,
 sleep research, philosophy and theology. Most deadline lists cover computer science only; this
 one follows the meetings a researcher working across fields actually needs.
@@ -29,10 +29,10 @@ venue's own page before you plan around it.
 | [DASFAA](https://dasfaa2027.github.io/) | AI · ML · Data Mining | 2026-11-25 |
 | [APS Annual Convention](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) | Psychology | 2026-12-01 |
 | [NetSci](https://netsci2027.github.io/) | Network science | 2026-12-01 |
+| [EuroVis](https://eurovis27.github.io/web/) | Visualization | 2026-12-02 |
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
-| [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
 
 ## Computing
 
@@ -49,7 +49,7 @@ venue's own page before you plan around it.
 | [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 18-24, 2027, San Jose, California, USA | CCF A · CORE A* |
 | [**GECCO**](https://gecco-2027.sigevo.org/HomePage) Genetic and Evolutionary Computation Conference | 2027-01-25 | July 12-16, 2027, Kraków, Poland | CCF C · CORE A |
 | [**COLT**](https://learningtheory.org/colt2027/) Annual Conference on Learning Theory | 2027-01-29 | June 28 - July 2, 2027, Tokyo, Japan | CCF B · CORE A* |
-| [**ICML**](https://icml.cc/Conferences/2026) International Conference on Machine Learning | ~2027-01-30 |  | CCF A · CORE A* |
+| [**ICML**](https://icml.cc/Conferences/2027) International Conference on Machine Learning | ~2027-01-30 | July 31 - August 6, 2027, Riocentro, Rio de Janeiro, Brazil | CCF A · CORE A* |
 | [**UAI**](https://www.auai.org/uai2026/) Conference on Uncertainty in Artificial Intelligence | ~2027-02-10 |  | CCF B · CORE A |
 | [**ICCBR**](https://2026.iccbr.org/) International Conference on Case-Based Reasoning | ~2027-02-26 |  | CCF B · CORE C |
 | [**ICDAR**]() International Conference on Document Analysis and Recognition | 2027-02-28 |  | CCF C · CORE A |
@@ -102,8 +102,8 @@ venue's own page before you plan around it.
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
 | [**CCS**](https://www.sigsac.org/ccs/CCS2027/) ACM Conference on Computer and Communications Security | ~2027-01-09 | October 11-15, 2027, Atlanta, USA | CCF A · CORE A* |
-| [**NDSS**](https://www.ndss-symposium.org/ndss2027/) Network and Distributed System Security (NDSS) Symposium | 2026-05-06 (passed) | March 22 - March 26, 2027, Seoul, Republic of Korea | CCF A · CORE A* |
 | [**S&P**](https://sp2027.ieee-security.org/index.html) IEEE Symposium on Security and Privacy | 2026-06-11 (passed) | May 17-19, 2027, MONTREAL, CANADA | CCF A · CORE A* |
+| [**NDSS**](https://www.ndss-symposium.org/ndss2027/) Network and Distributed System Security (NDSS) Symposium | 2026-08-19 (passed) | March 22 - March 26, 2027, Seoul, Republic of Korea | CCF A · CORE A* |
 | [**USENIX Security**](https://www.usenix.org/conference/usenixsecurity27) USENIX Security Symposium | 2026-08-25 (passed) | August 11-13, 2027, Denver, CO, USA | CCF A · CORE A* |
 
 [See Security on the site](https://zhiqian.ai/conferences#security)
@@ -153,7 +153,7 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**EuroVis**](https://eurovis27.github.io/web/) Eurographics Conference on Visualization | ~2026-12-04 | May 31-June 4, 2027, Stuttgart, Germany | CCF B · CORE B |
+| [**EuroVis**](https://eurovis27.github.io/web/) Eurographics Conference on Visualization | 2026-12-02 | May 31-June 4, 2027, Stuttgart, Germany | CCF B · CORE B |
 | [**IEEE VIS**](https://ieeevis.org/year/2026/welcome) IEEE Visualization Conference | ~2027-03-31 |  | CCF A · CORE A |
 | [**PacificVis**](https://pacificvis2027.github.io/) IEEE Pacific Visualization Symposium | 2026-09-08 (passed) | April 19-22, 2027, Busan, South Korea | CCF C · CORE B |
 
@@ -168,7 +168,6 @@ venue's own page before you plan around it.
 | [**ISMIR**](https://ismir2026.ismir.net/) International Society for Music Information Retrieval Conference | ~2027-04-27 | November 8-12, 2026, Abu Dhabi, United Arab Emirates |  |
 | [**DCASE**](https://dcase.community/workshop2026) Detection and Classification of Acoustic Scenes and Events Workshop | ~2027-07-12 | October 27-29, 2026, Medford, Massachusetts, USA |  |
 | [**ICASSP**](https://2027.ieeeicassp.org/) IEEE International Conference on Acoustics, Speech, and Signal Processing | 2026-09-23 (passed) | May 16-21, 2027, Toronto, Canada | CCF B · CORE B |
-| [**SANE**](https://www.saneworkshop.org/sane2026/) Speech and Audio in the Northeast | not published | October 30, 2026 at MIT, 13th edition. 2027 not announced, Alternates between Boston and New York, USA |  |
 
 [See Music & Audio on the site](https://zhiqian.ai/conferences#audio)
 
