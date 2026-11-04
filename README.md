@@ -1,6 +1,6 @@
 # Cross-field conference deadlines
 
-Submission deadlines, meeting dates and places for **176 conferences and
+Submission deadlines, meeting dates and places for **177 conferences and
 160 journals across 28 fields**, from AI and security to epidemiology,
 sleep research, philosophy and theology. Most deadline lists cover computer science only; this
 one follows the meetings a researcher working across fields actually needs.
@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-03. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-04. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [CNS](https://www.cogneurosociety.org/submit-a-poster/) | Cognitive neuroscience | 2026-11-03 |
 | [PES GM](https://pes-gm.org/2027-san-francisco/) | Power & energy | 2026-11-10 |
 | [L4DC](https://l4dc2027.control.ee.ethz.ch/) | Control | 2026-11-13 |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | AI · ML · Data Mining | 2026-11-16 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
+| [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
 
 ## Computing
 
@@ -163,11 +163,12 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**InterSpeech**](https://interspeech2027.org/) Conference of the International Speech Communication Association | 2027-02-09 | August 29 - September 2, 2027, São Paulo, Brazil | CCF B · CORE A |
+| [**InterSpeech**](https://interspeech2027.org/) Conference of the International Speech Communication Association | 2027-02-10 | August 29 - September 2, 2027, São Paulo, Brazil | CCF B · CORE A |
 | [**WASPAA**](https://waspaa.com/) IEEE Workshop on Applications of Signal Processing to Audio and Acoustics | 2027-04-21 | September 19-22, 2027, Levi, Finland |  |
 | [**ISMIR**](https://ismir2026.ismir.net/) International Society for Music Information Retrieval Conference | ~2027-04-27 | November 8-12, 2026, Abu Dhabi, United Arab Emirates |  |
 | [**DCASE**](https://dcase.community/workshop2026) Detection and Classification of Acoustic Scenes and Events Workshop | ~2027-07-12 | October 27-29, 2026, Medford, Massachusetts, USA |  |
 | [**ICASSP**](https://2027.ieeeicassp.org/) IEEE International Conference on Acoustics, Speech, and Signal Processing | 2026-09-23 (passed) | May 16-21, 2027, Toronto, Canada | CCF B · CORE B |
+| [**SANE**](https://www.saneworkshop.org/sane2026/) Speech and Audio in the Northeast | not published | October 30, 2026 at MIT, 13th edition. 2027 not announced, Alternates between Boston and New York, USA |  |
 
 [See Music & Audio on the site](https://zhiqian.ai/conferences#audio)
 
@@ -332,10 +333,10 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**CNS**](https://www.cogneurosociety.org/submit-a-poster/) Cognitive Neuroscience Society Annual Meeting | 2026-11-03 | March 20-23, 2027, Boston, Massachusetts, USA |  |
 | [**CCN**](https://2027.ccneuro.org/dates-and-deadlines/) Cognitive Computational Neuroscience | 2027-02-01 | July 26-29, 2027, Edinburgh, United Kingdom |  |
 | [**SfN**](https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines) Society for Neuroscience Annual Meeting | ~2027-06-11 | October 23-27, 2027, Chicago, Illinois, USA |  |
 | [**COSYNE**](https://www.cosyne.org/abstracts) Computational and Systems Neuroscience | ~2027-10-18 | March 11-14, 2027, Montreal, Quebec, Canada |  |
+| [**CNS**](https://www.cogneurosociety.org/submit-a-poster/) Cognitive Neuroscience Society Annual Meeting | 2026-11-03 (passed) | March 20-23, 2027, Boston, Massachusetts, USA |  |
 | [**OHBM**](https://www.humanbrainmapping.org/ohbm-2027/) Organization for Human Brain Mapping Annual Meeting | not published | June 26-30, 2027, Toronto, Ontario, Canada |  |
 
 [See Cognitive neuroscience on the site](https://zhiqian.ai/conferences#neuro)
