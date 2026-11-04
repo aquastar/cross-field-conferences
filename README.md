@@ -60,12 +60,12 @@ venue's own page before you plan around it.
 | [**ECAI**](https://ecai2027.org/) European Conference on Artificial Intelligence | 2027-04-14 | October 2-7, 2027, Athens, Greece | CCF B · CORE A |
 | [**KR**](https://kr.org/KR2027/) International Conference on Principles of Knowledge Representation and Reasoning | 2027-04-28 | September 21-24, 2027, Buenos Aires, Argentina | CCF B · CORE A* |
 | [**ASONAM**](https://asonam.cpsc.ucalgary.ca/2026/CFP.php) IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining | ~2027-05-10 |  | CCF C · CORE B |
+| [**ISWC**](https://iswc2026.semanticweb.org/) International Semantic Web Conference | ~2027-05-14 |  | CCF B · CORE A |
+| [**NeurIPS**](https://neurips.cc/Conferences/2026) Conference on Neural Information Processing Systems | ~2027-05-15 |  | CCF A · CORE A* |
 | [**SDM**](https://www.siam.org/conferences-events/siam-conferences/sdm26/) SIAM International Conference on Data Mining | ~2027-10-04 |  | CCF B · CORE A |
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
-| [**ISWC**](https://iswc2026.semanticweb.org/) International Semantic Web Conference | 2026-05-07 (passed) | October 27-29, 2026, Bari, Italy | CCF B · CORE A |
-| [**NeurIPS**](https://neurips.cc/Conferences/2026) Conference on Neural Information Processing Systems | 2026-05-07 (passed) | December 8-10 (Sydney), December 9-11 (Atlanta and Paris), 2026, Sydney, Australia; Atlanta, USA; Paris, France | CCF A · CORE A* |
 | [**ICWSM**](https://www.icwsm.org/2027/) The International AAAI Conference on Web and Social Media | 2026-05-15 (passed) | TBD, Edinburgh, Scotland | CCF B · CORE A |
 | [**ER**](https://www.er2026.org/) International Conference on Conceptual Modeling | 2026-05-19 (passed) | October 6-8, 2026, St. John's, NL, Canada | CCF C · CORE A |
 | [**CIKM**](https://cikm2026.diag.uniroma1.it/) ACM International Conference on Information and Knowledge Management | 2026-05-23 (passed) | November 9-11, 2026, Rome, Italy | CCF B · CORE A |
@@ -336,7 +336,7 @@ venue's own page before you plan around it.
 | [**CCN**](https://2027.ccneuro.org/dates-and-deadlines/) Cognitive Computational Neuroscience | 2027-02-01 | July 26-29, 2027, Edinburgh, United Kingdom |  |
 | [**SfN**](https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines) Society for Neuroscience Annual Meeting | ~2027-06-11 | October 23-27, 2027, Chicago, Illinois, USA |  |
 | [**COSYNE**](https://www.cosyne.org/abstracts) Computational and Systems Neuroscience | ~2027-10-18 | March 11-14, 2027, Montreal, Quebec, Canada |  |
-| [**CNS**](https://www.cogneurosociety.org/submit-a-poster/) Cognitive Neuroscience Society Annual Meeting | 2026-11-03 (passed) | March 20-23, 2027, Boston, Massachusetts, USA |  |
+| [**CNS**](https://www.cogneurosociety.org/submit-a-poster/) Cognitive Neuroscience Society Annual Meeting | ~2027-11-03 | March 20-23, 2027, Boston, Massachusetts, USA |  |
 | [**OHBM**](https://www.humanbrainmapping.org/ohbm-2027/) Organization for Human Brain Mapping Annual Meeting | not published | June 26-30, 2027, Toronto, Ontario, Canada |  |
 
 [See Cognitive neuroscience on the site](https://zhiqian.ai/conferences#neuro)
