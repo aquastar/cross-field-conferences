@@ -51,7 +51,7 @@
   "issn": "1041-4347",
   "ccf": "A",
   "citations_per_paper": 12.5,
-  "h_index": 273,
+  "h_index": 274,
   "link": "https://dblp.org/db/journals/tkde/index.html"
  },
  {
@@ -106,7 +106,7 @@
   "issn": "0167-4048",
   "ccf": "B",
   "citations_per_paper": 10.8,
-  "h_index": 174,
+  "h_index": 175,
   "link": "https://dblp.org/db/journals/compsec/index.html"
  },
  {
@@ -116,7 +116,7 @@
   "publisher": "IOS Press",
   "issn": "0926-227X",
   "ccf": "B",
-  "citations_per_paper": 2.2,
+  "citations_per_paper": 2.1,
   "h_index": 77,
   "link": "https://dblp.org/db/journals/jcs/index.html"
  },
@@ -281,7 +281,7 @@
   "publisher": "IEEE CSS",
   "issn": "2325-5870",
   "ccf": "N",
-  "citations_per_paper": 4.2,
+  "citations_per_paper": 4.3,
   "h_index": 95,
   "link": "https://dblp.org/db/journals/tcns/index.html"
  },
@@ -314,7 +314,7 @@
   "publisher": "Elsevier (IFAC)",
   "issn": "1367-5788",
   "ccf": "N",
-  "citations_per_paper": 15.4,
+  "citations_per_paper": 15.5,
   "h_index": 133,
   "link": "https://dblp.org/db/journals/arc/index.html"
  },
@@ -369,7 +369,7 @@
   "publisher": "Springer",
   "issn": "0924-090X",
   "ccf": "N",
-  "citations_per_paper": 7.1,
+  "citations_per_paper": 7.2,
   "h_index": 174,
   "link": ""
  },
@@ -579,7 +579,7 @@
   "issn": "0899-1499",
   "ccf": "B",
   "citations_per_paper": 2.1,
-  "h_index": 130,
+  "h_index": 131,
   "link": "https://dblp.org/db/journals/informs/index.html"
  },
  {
@@ -634,7 +634,7 @@
   "issn": "0896-6273",
   "ccf": "N",
   "citations_per_paper": 15.7,
-  "h_index": 685,
+  "h_index": 686,
   "link": ""
  },
  {
@@ -678,7 +678,7 @@
   "issn": "1065-9471",
   "ccf": "N",
   "citations_per_paper": 5.3,
-  "h_index": 269,
+  "h_index": 270,
   "link": ""
  },
  {
@@ -710,7 +710,7 @@
   "publisher": "APA",
   "issn": "0033-295X",
   "ccf": "N",
-  "citations_per_paper": 8.2,
+  "citations_per_paper": 8.3,
   "h_index": 501,
   "link": ""
  },
@@ -732,7 +732,7 @@
   "publisher": "Cell Press",
   "issn": "1364-6613",
   "ccf": "N",
-  "citations_per_paper": 12.2,
+  "citations_per_paper": 12.1,
   "h_index": 457,
   "link": ""
  },
@@ -864,8 +864,8 @@
   "publisher": "Nature Portfolio",
   "issn": "2398-6352",
   "ccf": "N",
-  "citations_per_paper": 15.7,
-  "h_index": 170,
+  "citations_per_paper": 15.8,
+  "h_index": 171,
   "link": ""
  },
  {
@@ -985,7 +985,7 @@
   "publisher": "Nature Portfolio",
   "issn": "1476-1122",
   "ccf": "N",
-  "citations_per_paper": 25.9,
+  "citations_per_paper": 26,
   "h_index": 652,
   "link": ""
  },
@@ -996,7 +996,7 @@
   "publisher": "Nature Portfolio",
   "issn": "2057-3960",
   "ccf": "N",
-  "citations_per_paper": 12.3,
+  "citations_per_paper": 12.4,
   "h_index": 140,
   "link": ""
  },
@@ -1040,7 +1040,7 @@
   "publisher": "IEEE PES",
   "issn": "0885-8950",
   "ccf": "N",
-  "citations_per_paper": 8.1,
+  "citations_per_paper": 8.2,
   "h_index": 372,
   "link": ""
  },
@@ -1051,7 +1051,7 @@
   "publisher": "IEEE PES",
   "issn": "1949-3053",
   "ccf": "N",
-  "citations_per_paper": 9,
+  "citations_per_paper": 9.1,
   "h_index": 286,
   "link": ""
  },
@@ -1139,7 +1139,7 @@
   "publisher": "ACM",
   "issn": "1549-6325",
   "ccf": "B",
-  "citations_per_paper": 1.7,
+  "citations_per_paper": 1.8,
   "h_index": 79,
   "link": "https://dblp.org/db/journals/talg/index.html"
  },
@@ -1195,7 +1195,7 @@
   "issn": "1050-2947",
   "ccf": "N",
   "citations_per_paper": 3.2,
-  "h_index": 453,
+  "h_index": 454,
   "link": ""
  },
  {
@@ -1403,7 +1403,7 @@
   "publisher": "SAGE",
   "issn": "1473-8716",
   "ccf": "N",
-  "citations_per_paper": 2.2,
+  "citations_per_paper": 2.1,
   "h_index": 66,
   "link": "https://dblp.org/db/journals/ivs/index.html"
  },
@@ -1700,7 +1700,7 @@
   "publisher": "AI Access Foundation",
   "issn": "1076-9757",
   "ccf": "B",
-  "citations_per_paper": 7,
+  "citations_per_paper": 7.1,
   "h_index": 170,
   "link": "https://dblp.org/db/journals/jair/index.html"
  },
@@ -1744,7 +1744,7 @@
   "publisher": "ACL",
   "issn": "2307-387X",
   "ccf": "B",
-  "citations_per_paper": 21.5,
+  "citations_per_paper": 21.6,
   "h_index": 124,
   "link": "https://dblp.org/db/journals/tacl/index.html"
  },

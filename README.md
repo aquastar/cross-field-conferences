@@ -60,7 +60,7 @@ venue's own page before you plan around it.
 | [**ECAI**](https://ecai2027.org/) European Conference on Artificial Intelligence | 2027-04-14 | October 2-7, 2027, Athens, Greece | CCF B · CORE A |
 | [**KR**](https://kr.org/KR2027/) International Conference on Principles of Knowledge Representation and Reasoning | 2027-04-28 | September 21-24, 2027, Buenos Aires, Argentina | CCF B · CORE A* |
 | [**ASONAM**](https://asonam.cpsc.ucalgary.ca/2026/CFP.php) IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining | ~2027-05-10 |  | CCF C · CORE B |
-| [**ISWC**](https://iswc2026.semanticweb.org/) International Semantic Web Conference | ~2027-05-14 |  | CCF B · CORE A |
+| [**ISWC**](https://iswc2027.semanticweb.org/) International Semantic Web Conference | ~2027-05-14 | October 24-28, 2027, Montevideo, Uruguay | CCF B · CORE A |
 | [**NeurIPS**](https://neurips.cc/Conferences/2026) Conference on Neural Information Processing Systems | ~2027-05-15 |  | CCF A · CORE A* |
 | [**SDM**](https://www.siam.org/conferences-events/siam-conferences/sdm26/) SIAM International Conference on Data Mining | ~2027-10-04 |  | CCF B · CORE A |
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
@@ -348,7 +348,7 @@ venue's own page before you plan around it.
 |---|---|---|---|
 | [**APS Annual Convention**](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) Association for Psychological Science | 2026-12-01 | May 27-30, 2027, Seattle, Washington, USA |  |
 | [**APA Convention**](https://convention.apa.org/proposals) American Psychological Association Annual Convention | ~2027-01-14 | August 12-14, 2027, San Francisco, California, USA |  |
-| [**CogSci**](https://cognitivesciencesociety.org/cogsci-2026/) Annual Meeting of the Cognitive Science Society | ~2027-02-01 |  | CCF B · CORE B |
+| [**CogSci**](https://cognitivesciencesociety.org/cogsci-2027/) Annual Meeting of the Cognitive Science Society | ~2027-02-01 | July 28-31, 2027, Euskalduna Bilbao Convention Centre, Bilbao, Spain | CCF B · CORE B |
 | [**Psychonomics**](https://www.psychonomic.org/page/futuremeetings) Psychonomic Society Annual Meeting | ~2027-06-01 | November 18-21, 2027, New Orleans, Louisiana, USA |  |
 | [**ASSC**](https://theassc.org/assc-30/) Association for the Scientific Study of Consciousness | not published | June 16-19, 2027, Beijing, China |  |
 
