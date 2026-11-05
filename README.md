@@ -1,6 +1,6 @@
 # Cross-field conference deadlines
 
-Submission deadlines, meeting dates and places for **177 conferences and
+Submission deadlines, meeting dates and places for **178 conferences and
 160 journals across 28 fields**, from AI and security to epidemiology,
 sleep research, philosophy and theology. Most deadline lists cover computer science only; this
 one follows the meetings a researcher working across fields actually needs.
@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-04. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-05. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -290,6 +290,7 @@ venue's own page before you plan around it.
 | [**CHIL**](https://chil.ahli.cc/) AHLI Conference on Health, Inference, and Learning | 2027-02-03 | June 28-30, 2027, Chicago, Illinois, USA |  |
 | [**MICCAI**](https://conferences.miccai.org/2028/en/) International Conference on Medical Image Computing and Computer Assisted Intervention | ~2027-02-27 | September 26 - October 1, 2027, Auckland, New Zealand | CCF B · CORE A |
 | [**AMIA**](https://amia.org/education-events/amia-annual-symposium) AMIA Annual Symposium | ~2027-03-10 |  |  |
+| [**ACM-BCB**](https://acm-bcb.org/research.php) ACM Conference on Bioinformatics, Computational Biology, and Health Informatics | 2027-03-26 | August 10-13, 2027, Boston, Massachusetts, USA |  |
 | [**ML4H**](https://ml4h.ahli.cc/) Machine Learning for Health Symposium | ~2027-09-10 | December 6-7, 2026, Sydney, Australia |  |
 | [**ISBI**](https://biomedicalimaging.org/2027/) IEEE International Symposium on Biomedical Imaging | ~2027-10-26 | May 25-28, 2027, Lausanne, Switzerland |  |
 | [**BIBM**](https://ieeebibm.org/BIBM2026/) IEEE International Conference on Bioinformatics and Biomedicine | 2026-07-05 (passed) | Dec 1-4, 2026, Dallas, USA | CCF B |

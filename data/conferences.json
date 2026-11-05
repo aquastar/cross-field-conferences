@@ -1241,6 +1241,23 @@
   "note": "The main conference of the IEEE Control Systems Society and the premier venue of the field, 66th edition, with full archival proceedings. Papers may be submitted jointly to L-CSS, the society letters journal, on the earlier of the two deadlines. Neither CCF nor CORE indexes it, because both catalogue computing rather than control."
  },
  {
+  "acronym": "ACM-BCB",
+  "name": "ACM Conference on Bioinformatics, Computational Biology, and Health Informatics",
+  "field": "biomed",
+  "field_label": "Biomedical",
+  "kind": "ranked",
+  "next_deadline": "2027-03-26",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "August 10-13, 2027",
+  "place": "Boston, Massachusetts, USA",
+  "link": "https://acm-bcb.org/research.php",
+  "ccf": "",
+  "core": "",
+  "proceedings": "full",
+  "note": "ACM SIGBIO's flagship meeting, at UMass Boston in 2027. Research papers are 8 to 10 pages including references in the ACM two-column format, double-blind, in the ACM Digital Library. The abstract must be registered by March 19, and review runs two cycles so authors can revise before the May 28 decision. Topics run from genomics to LLMs and knowledge graphs for health."
+ },
+ {
   "acronym": "ALIFE",
   "name": "Conference on Artificial Life",
   "field": "complex",
