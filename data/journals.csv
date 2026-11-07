@@ -1,11 +1,11 @@
 acronym,name,field,publisher,issn,ccf,citations_per_paper,h_index,link
-TPAMI,IEEE Transactions on Pattern Analysis and Machine Intelligence,ai,IEEE,0162-8828,A,18.9,564,https://dblp.org/db/journals/pami/index.html
+TPAMI,IEEE Transactions on Pattern Analysis and Machine Intelligence,ai,IEEE,0162-8828,A,19,564,https://dblp.org/db/journals/pami/index.html
 JMLR,Journal of Machine Learning Research,ai,JMLR,1532-4435,A,,,https://dblp.org/db/journals/jmlr/index.html
 AIJ,Artificial Intelligence,ai,Elsevier,0004-3702,A,4.8,307,https://dblp.org/db/journals/ai/index.html
 IJCV,International Journal of Computer Vision,ai,Springer,0920-5691,A,13.5,295,https://dblp.org/db/journals/ijcv/index.html
 TKDE,IEEE Transactions on Knowledge and Data Engineering,ai,IEEE,1041-4347,A,12.5,274,https://dblp.org/db/journals/tkde/index.html
 TDSC,IEEE Transactions on Dependable and Secure Computing,security,IEEE,1545-5971,A,4.9,137,https://dblp.org/db/journals/tdsc/index.html
-TIFS,IEEE Transactions on Information Forensics and Security,security,IEEE,1556-6013,A,8.5,209,https://dblp.org/db/journals/tifs/index.html
+TIFS,IEEE Transactions on Information Forensics and Security,security,IEEE,1556-6013,A,8.4,209,https://dblp.org/db/journals/tifs/index.html
 JoC,Journal of Cryptology,security,Springer (IACR),0933-2790,A,3.7,121,https://dblp.org/db/journals/joc/index.html
 TOPS,ACM Transactions on Privacy and Security,security,ACM,2471-2566,B,5.4,42,https://dblp.org/db/journals/tissec/index.html
 Computers & Security,Computers & Security,security,Elsevier,0167-4048,B,10.8,175,https://dblp.org/db/journals/compsec/index.html
@@ -14,9 +14,9 @@ TCAD,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Syste
 TC,IEEE Transactions on Computers,eda,IEEE,0018-9340,A,4.3,259,https://dblp.org/db/journals/tc/index.html
 TODAES,ACM Transactions on Design Automation of Electronic Systems,eda,ACM,1084-4309,B,3.5,68,https://dblp.org/db/journals/todaes/index.html
 TVLSI,IEEE Transactions on Very Large Scale Integration Systems,eda,IEEE,1063-8210,B,2.9,148,https://dblp.org/db/journals/tvlsi/index.html
-TASLP,"IEEE/ACM Transactions on Audio, Speech, and Language Processing",audio,IEEE / ACM,2329-9290,B,14,120,https://dblp.org/db/journals/taslp/index.html
+TASLP,"IEEE/ACM Transactions on Audio, Speech, and Language Processing",audio,IEEE / ACM,2329-9290,B,14.1,120,https://dblp.org/db/journals/taslp/index.html
 TISMIR,Transactions of the International Society for Music Information Retrieval,audio,Ubiquity Press,2514-3298,N,2.8,22,https://dblp.org/db/journals/tismir/index.html
-EURASIP JASMP,"EURASIP Journal on Audio, Speech, and Music Processing",audio,Springer,1687-4714,N,4.6,44,https://dblp.org/db/journals/ejasmp/index.html
+EURASIP JASMP,"EURASIP Journal on Audio, Speech, and Music Processing",audio,Springer,1687-4714,N,4.7,44,https://dblp.org/db/journals/ejasmp/index.html
 JAES,Journal of the Audio Engineering Society,audio,AES,1549-4950,N,1.3,78,
 IJF,International Journal of Forecasting,ts,Elsevier (IIF),0169-2070,N,5,193,
 JTSA,Journal of Time Series Analysis,ts,Wiley,0143-9782,N,1.4,110,
@@ -26,7 +26,7 @@ SICON,SIAM Journal on Control and Optimization,control,SIAM,0363-0129,N,3.2,196,
 TCST,IEEE Transactions on Control Systems Technology,control,IEEE CSS,1063-6536,N,4.9,220,https://dblp.org/db/journals/tcst/index.html
 TCNS,IEEE Transactions on Control of Network Systems,control,IEEE CSS,2325-5870,N,4.3,95,https://dblp.org/db/journals/tcns/index.html
 L-CSS,IEEE Control Systems Letters,control,IEEE CSS,2475-1456,N,1.7,64,https://dblp.org/db/journals/lcsys/index.html
-SCL,Systems & Control Letters,control,Elsevier,0167-6911,N,3.1,193,https://dblp.org/db/journals/scl/index.html
+SCL,Systems & Control Letters,control,Elsevier,0167-6911,N,3.1,194,https://dblp.org/db/journals/scl/index.html
 ARC,Annual Reviews in Control,control,Elsevier (IFAC),1367-5788,N,15.5,133,https://dblp.org/db/journals/arc/index.html
 SIADS,SIAM Journal on Applied Dynamical Systems,dynsys,SIAM,1536-0040,N,3.7,86,https://dblp.org/db/journals/siamads/index.html
 Chaos,Chaos: An Interdisciplinary Journal of Nonlinear Science,dynsys,AIP,1054-1500,N,4.1,156,
@@ -42,7 +42,7 @@ Network Science,Network Science,netsci,Cambridge,2050-1242,N,1.5,35,https://dblp
 J. Complex Netw.,Journal of Complex Networks,netsci,Oxford,2051-1310,N,2.2,44,https://dblp.org/db/journals/compnet/index.html
 Appl. Netw. Sci.,Applied Network Science,netsci,Springer,2364-8228,N,2.7,46,https://dblp.org/db/journals/ans/index.html
 Social Networks,Social Networks,netsci,Elsevier,0378-8733,N,2.3,173,https://dblp.org/db/journals/socnet/index.html
-EPJ Data Sci.,EPJ Data Science,netsci,Springer,2193-1127,N,5.6,68,https://dblp.org/db/journals/epjds/index.html
+EPJ Data Sci.,EPJ Data Science,netsci,Springer,2193-1127,N,5.7,68,https://dblp.org/db/journals/epjds/index.html
 JUQ,SIAM/ASA Journal on Uncertainty Quantification,uq,SIAM / ASA,2166-2525,N,2.7,52,https://dblp.org/db/journals/juq/index.html
 IJUQ,International Journal for Uncertainty Quantification,uq,Begell House,2152-5080,N,1.3,40,
 JASA,Journal of the American Statistical Association,uq,ASA / Taylor & Francis,0162-1459,N,3,633,
@@ -57,13 +57,13 @@ SISC,SIAM Journal on Scientific Computing,amath,SIAM,1064-8275,N,4,210,https://d
 SIMODS,SIAM Journal on Mathematics of Data Science,amath,SIAM,2577-0187,N,3,38,https://dblp.org/db/journals/simods/index.html
 JCP,Journal of Computational Physics,amath,Elsevier,0021-9991,N,4.5,419,https://dblp.org/db/journals/jcphy/index.html
 Neuron,Neuron,neuro,Cell Press,0896-6273,N,15.7,686,
-Nat. Neurosci.,Nature Neuroscience,neuro,Nature Portfolio,1097-6256,N,20.4,588,
+Nat. Neurosci.,Nature Neuroscience,neuro,Nature Portfolio,1097-6256,N,20.4,589,
 JOCN,Journal of Cognitive Neuroscience,neuro,MIT Press,0898-929X,N,4.1,305,
-NeuroImage,NeuroImage,neuro,Elsevier,1053-8119,N,4.6,522,
+NeuroImage,NeuroImage,neuro,Elsevier,1053-8119,N,4.7,522,
 HBM,Human Brain Mapping,neuro,Wiley,1065-9471,N,5.3,270,
 PLOS Comp Bio,PLOS Computational Biology,neuro,PLOS,1553-734X,B,5.1,282,https://dblp.org/db/journals/ploscb/index.html
 eLife,eLife,neuro,eLife,2050-084X,N,2.2,309,
-Psych. Review,Psychological Review,psych,APA,0033-295X,N,8.3,501,
+Psych. Review,Psychological Review,psych,APA,0033-295X,N,8.2,501,
 Psych. Science,Psychological Science,psych,SAGE (APS),0956-7976,N,7.1,419,
 TiCS,Trends in Cognitive Sciences,psych,Cell Press,1364-6613,N,12.1,457,
 JEP: General,Journal of Experimental Psychology: General,psych,APA,0096-3445,N,2.6,296,
@@ -71,30 +71,30 @@ Cognition,Cognition,psych,Elsevier,0010-0277,N,3.6,353,
 Cognitive Science,Cognitive Science,psych,Wiley,0364-0213,N,2.4,233,https://dblp.org/db/journals/cogsci/index.html
 PB&R,Psychonomic Bulletin & Review,psych,Springer,1069-9384,N,3.9,233,
 SLEEP,SLEEP,sleep,Oxford (SRS),0161-8105,N,0.9,308,
-Sleep Med. Rev.,Sleep Medicine Reviews,sleep,Elsevier,1087-0792,N,9.6,228,
+Sleep Med. Rev.,Sleep Medicine Reviews,sleep,Elsevier,1087-0792,N,9.7,229,
 JSR,Journal of Sleep Research,sleep,Wiley (ESRS),0962-1105,N,4,177,
 Dreaming,Dreaming,sleep,APA (IASD),1053-0797,N,0.8,55,
 IJoDR,International Journal of Dream Research,sleep,Heidelberg University,1866-7953,N,0.2,23,
-JAMIA,Journal of the American Medical Informatics Association,biomed,Oxford (AMIA),1067-5027,B,13.1,232,https://dblp.org/db/journals/jamia/index.html
+JAMIA,Journal of the American Medical Informatics Association,biomed,Oxford (AMIA),1067-5027,B,13.2,232,https://dblp.org/db/journals/jamia/index.html
 Lancet Digit. Health,The Lancet Digital Health,biomed,Elsevier,2589-7500,N,18.4,135,
 npj Digit. Med.,npj Digital Medicine,biomed,Nature Portfolio,2398-6352,N,15.8,171,
 MedIA,Medical Image Analysis,biomed,Elsevier,1361-8415,C,13.6,223,https://dblp.org/db/journals/mia/index.html
 TMI,IEEE Transactions on Medical Imaging,biomed,IEEE,0278-0062,B,11.1,328,https://dblp.org/db/journals/tmi/index.html
 TBME,IEEE Transactions on Biomedical Engineering,biomed,IEEE,0018-9294,N,4.4,310,https://dblp.org/db/journals/tbe/index.html
-JBHI,IEEE Journal of Biomedical and Health Informatics,biomed,IEEE,2168-2194,C,6.5,168,https://dblp.org/db/journals/titb/index.html
+JBHI,IEEE Journal of Biomedical and Health Informatics,biomed,IEEE,2168-2194,C,6.6,168,https://dblp.org/db/journals/titb/index.html
 JBI,Journal of Biomedical Informatics,biomed,Elsevier,1532-0464,C,8.1,169,https://dblp.org/db/journals/jbi/index.html
 Epidemics,Epidemics,epi,Elsevier,1755-4365,N,4.3,73,
 Lancet Inf. Dis.,The Lancet Infectious Diseases,epi,Elsevier,1473-3099,N,12.9,373,
-Eurosurveillance,Eurosurveillance,epi,ECDC,1025-496X,N,8.6,173,
+Eurosurveillance,Eurosurveillance,epi,ECDC,1025-496X,N,8.7,173,
 AJE,American Journal of Epidemiology,epi,Oxford,0002-9262,N,3.5,415,
-IDM,Infectious Disease Modelling,epi,KeAi,2468-0427,N,3.2,47,
+IDM,Infectious Disease Modelling,epi,KeAi,2468-0427,N,3.3,47,
 Nat. Mater.,Nature Materials,materials,Nature Portfolio,1476-1122,N,26,652,
 npj Comput. Mater.,npj Computational Materials,materials,Nature Portfolio,2057-3960,N,12.4,140,
 Digital Discovery,Digital Discovery,materials,RSC,2635-098X,N,6.6,47,
-Acta Mater.,Acta Materialia,materials,Elsevier,1359-6454,N,11.1,420,
+Acta Mater.,Acta Materialia,materials,Elsevier,1359-6454,N,11.2,420,
 Chem. Mater.,Chemistry of Materials,materials,ACS,0897-4756,N,7.1,473,
 TPWRS,IEEE Transactions on Power Systems,power,IEEE PES,0885-8950,N,8.2,372,
-TSG,IEEE Transactions on Smart Grid,power,IEEE PES,1949-3053,N,9.1,286,
+TSG,IEEE Transactions on Smart Grid,power,IEEE PES,1949-3053,N,9,286,
 TSTE,IEEE Transactions on Sustainable Energy,power,IEEE PES,1949-3029,N,7.9,202,
 EPSR,Electric Power Systems Research,power,Elsevier,0378-7796,N,4.9,176,
 Applied Energy,Applied Energy,power,Elsevier,0306-2619,N,16.5,390,
@@ -113,10 +113,10 @@ TQC,ACM Transactions on Quantum Computing,quantum,ACM,2643-6809,N,7.2,33,
 PRL,Physical Review Letters,physics,APS,0031-9007,N,9.9,975,
 Nat. Phys.,Nature Physics,physics,Nature Portfolio,1745-2473,N,13,404,
 PRX,Physical Review X,physics,APS,2160-3308,N,13,235,
-RMP,Reviews of Modern Physics,physics,APS,0034-6861,N,41.2,615,
+RMP,Reviews of Modern Physics,physics,APS,0034-6861,N,41.3,615,
 PRB,Physical Review B,physics,APS,1098-0121,N,,,
 PRD,Physical Review D,physics,APS,1550-7998,N,,,
-Annals,Annals of Mathematics,math,Princeton / IAS,0003-486X,N,14.5,322,
+Annals,Annals of Mathematics,math,Princeton / IAS,0003-486X,N,14.1,322,
 Acta,Acta Mathematica,math,Institut Mittag-Leffler,0001-5962,N,10.5,202,
 Inventiones,Inventiones mathematicae,math,Springer,0020-9910,N,6,252,
 JAMS,Journal of the American Mathematical Society,math,AMS,0894-0347,N,8.6,169,
@@ -127,10 +127,10 @@ TVCG,IEEE Transactions on Visualization and Computer Graphics,vis,IEEE,1077-2626
 CGF,Computer Graphics Forum,vis,Wiley (Eurographics),0167-7055,B,2.8,170,https://dblp.org/db/journals/cgf/index.html
 CG&A,IEEE Computer Graphics and Applications,vis,IEEE,0272-1716,N,1.2,162,https://dblp.org/db/journals/cga/index.html
 IVS,Information Visualization,vis,SAGE,1473-8716,N,2.1,66,https://dblp.org/db/journals/ivs/index.html
-Phil. Review,The Philosophical Review,philosophy,Duke Univ. Press,0031-8108,N,1.4,305,
+Phil. Review,The Philosophical Review,philosophy,Duke Univ. Press,0031-8108,N,1.4,306,
 J. Phil.,The Journal of Philosophy,philosophy,"Journal of Philosophy, Inc.",0022-362X,N,2.4,293,
 Noûs,Noûs,philosophy,Wiley,0029-4624,N,2.1,170,
-Mind,Mind,philosophy,Oxford,0026-4423,N,1.6,166,
+Mind,Mind,philosophy,Oxford,0026-4423,N,1.6,167,
 PPR,Philosophy and Phenomenological Research,philosophy,Wiley,0031-8205,N,2.3,201,
 Ethics,Ethics,philosophy,Univ. of Chicago Press,0014-1704,N,1,184,
 Phil. Sci.,Philosophy of Science,philosophy,Cambridge (PSA),0031-8248,N,1.1,163,
@@ -155,7 +155,7 @@ Aries,Aries: Journal for the Study of Western Esotericism,divination,Brill (ESSW
 JSA,Journal of Skyscape Archaeology,divination,Equinox,2055-348X,N,0.2,9,
 JAIR,Journal of Artificial Intelligence Research,ai,AI Access Foundation,1076-9757,B,7.1,170,https://dblp.org/db/journals/jair/index.html
 TKDD,ACM Transactions on Knowledge Discovery from Data,ai,ACM,1556-4681,B,7.8,89,https://dblp.org/db/journals/tkdd/index.html
-DMKD,Data Mining and Knowledge Discovery,ai,Springer,1384-5810,B,5.5,144,https://dblp.org/db/journals/datamine/index.html
-TNNLS,IEEE Transactions on Neural Networks and Learning Systems,ai,IEEE,2162-237X,B,11,248,https://dblp.org/db/journals/tnn/index.html
-TACL,Transactions of the Association for Computational Linguistics,ai,ACL,2307-387X,B,21.6,124,https://dblp.org/db/journals/tacl/index.html
+DMKD,Data Mining and Knowledge Discovery,ai,Springer,1384-5810,B,5.6,144,https://dblp.org/db/journals/datamine/index.html
+TNNLS,IEEE Transactions on Neural Networks and Learning Systems,ai,IEEE,2162-237X,B,11.1,248,https://dblp.org/db/journals/tnn/index.html
+TACL,Transactions of the Association for Computational Linguistics,ai,ACL,2307-387X,B,21.7,124,https://dblp.org/db/journals/tacl/index.html
 TMLR,Transactions on Machine Learning Research,ai,OpenReview,2835-8856,N,,,https://dblp.org/db/journals/tmlr/index.html

@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-05. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-07. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -29,10 +29,10 @@ venue's own page before you plan around it.
 | [APS Annual Convention](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) | Psychology | 2026-12-01 |
 | [NetSci](https://netsci2027.github.io/) | Network science | 2026-12-01 |
 | [EuroVis](https://eurovis27.github.io/web/) | Visualization | 2026-12-02 |
+| [SOCG](https://cgweek27.computational-geometry.org/) | Theoretical CS | 2026-12-02 |
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
-| [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
 
 ## Computing
 
@@ -74,7 +74,7 @@ venue's own page before you plan around it.
 | [**PODS**](https://2027.sigmod.org/) ACM Symposium on Principles of Database Systems | 2026-05-30 (passed) | June 13-19, 2027, Huntington Beach, California, USA | CCF B · CORE A* |
 | [**VLDB**](https://www.vldb.org/2027/) International Conference on Very Large Data Bases | 2026-06-01 (passed) | August 23 - August 27, 2027, Athens, Greece | CCF A · CORE A* |
 | [**SIGSPATIAL**](https://sigspatial2026.sigspatial.org/) ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems | 2026-06-05 (passed) | November 3-6, 2026, Riverside, CA, USA | CCF C · CORE A |
-| [**ICDM**](http://icdm2026.neu.edu.cn/) IEEE International Conference on Data Mining | 2026-06-06 (passed) | November 12-15, 2026, Shenyang, China | CCF B · CORE A* |
+| [**ICDM**](http://icdm2026.neu.edu.cn/) IEEE International Conference on Data Mining | 2026-06-06 (passed) | November 13-15, 2026, Shenyang, China | CCF B · CORE A* |
 | [**EDBT**](https://edbticdt2027.github.io/) International Conference on Extending Database Technology | 2026-06-10 (passed) | April 6-9, 2027, Lille, France | CCF B · CORE A |
 | [**ICDE**](https://icde2027.github.io/) IEEE International Conference on Data Engineering | 2026-06-11 (passed) | May 17-21, 2027, Copenhagen, Denmark | CCF A · CORE A* |
 | [**WACV**](https://wacv.thecvf.com/) IEEE/CVF Winter Conference on Applications of Computer Vision | 2026-06-26 (passed) | Jan 4 - 8, 2027, Disney Springs, Buena Vista, FL, USA | CORE A |
@@ -127,7 +127,7 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**SOCG**](https://cgweek27.computational-geometry.org/) International Symposium on Computational Geometry | ~2026-12-03 | June 21-25, 2027, Bengaluru, India | CCF B · CORE A |
+| [**SOCG**](https://cgweek27.computational-geometry.org/) International Symposium on Computational Geometry | 2026-12-02 | June 21-25, 2027, Bengaluru, India | CCF B · CORE A |
 | [**LICS**](https://lics.siglog.org/lics27/) IEEE Symposium on Logic in Computer Science | ~2027-01-23 | June 21-24, 2027, Montréal, Canada | CCF A · CORE A* |
 | [**CCC**](https://computationalcomplexity.org/) Computational Complexity Conference | ~2027-02-07 | July 19-22, 2027, Seattle, Washington, USA | CCF B · CORE A |
 | [**FOCS**](https://sanjeevkhanna.org/FOCS2026_CFP.html) IEEE Symposium on Foundations of Computer Science | ~2027-04-03 |  | CCF A · CORE A* |
