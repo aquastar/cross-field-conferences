@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-08. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-09. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -49,12 +49,12 @@ venue's own page before you plan around it.
 | [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 18-24, 2027, San Jose, California, USA | CCF A · CORE A* |
 | [**GECCO**](https://gecco-2027.sigevo.org/HomePage) Genetic and Evolutionary Computation Conference | 2027-01-25 | July 12-16, 2027, Kraków, Poland | CCF C · CORE A |
 | [**COLT**](https://learningtheory.org/colt2027/) Annual Conference on Learning Theory | 2027-01-29 | June 28 - July 2, 2027, Tokyo, Japan | CCF B · CORE A* |
-| [**ICML**](https://icml.cc/Conferences/2027) International Conference on Machine Learning | ~2027-01-30 | July 31 - August 6, 2027, Riocentro, Rio de Janeiro, Brazil | CCF A · CORE A* |
+| [**ICML**](https://icml.cc/Conferences/2027) International Conference on Machine Learning | ~2027-01-30 | August 2-4, 2027, Riocentro, Rio de Janeiro, Brazil | CCF A · CORE A* |
 | [**UAI**](https://www.auai.org/uai2026/) Conference on Uncertainty in Artificial Intelligence | ~2027-02-10 |  | CCF B · CORE A |
 | [**ICCBR**](https://2026.iccbr.org/) International Conference on Case-Based Reasoning | ~2027-02-26 |  | CCF B · CORE C |
 | [**ICDAR**]() International Conference on Document Analysis and Recognition | 2027-02-28 |  | CCF C · CORE A |
 | [**IROS**](https://2027.ieee-iros.org/) IEEE/RSJ International Conference on Intelligent Robots and Systems | 2027-03-01 | September 27 - October 1, 2027, Florence, Italy | CCF C · CORE A |
-| [**ICCV**](https://iccv.thecvf.com/Conferences/2027) IEEE International Conference on Computer Vision | ~2027-03-08 | October 2-8, 2027, Hong Kong, China | CCF A · CORE A* |
+| [**ICCV**](https://iccv.thecvf.com/Conferences/2027) IEEE International Conference on Computer Vision | ~2027-03-08 | October 5-7, 2027, Hong Kong, China | CCF A · CORE A* |
 | [**COLM**](https://colm.cc/) Conference on Language Modeling | ~2027-03-31 |  |  |
 | [**RecSys**](https://recsys.acm.org/recsys27/) ACM Conference on Recommender Systems | ~2027-04-08 | August 23-27, 2027, Honolulu, O‘ahu, Hawaii, USA | CCF B · CORE A |
 | [**ECAI**](https://ecai2027.org/) European Conference on Artificial Intelligence | 2027-04-14 | October 2-7, 2027, Athens, Greece | CCF B · CORE A |
@@ -77,7 +77,7 @@ venue's own page before you plan around it.
 | [**ICDM**](http://icdm2026.neu.edu.cn/) IEEE International Conference on Data Mining | 2026-06-06 (passed) | November 13-15, 2026, Shenyang, China | CCF B · CORE A* |
 | [**EDBT**](https://edbticdt2027.github.io/) International Conference on Extending Database Technology | 2026-06-10 (passed) | April 6-9, 2027, Lille, France | CCF B · CORE A |
 | [**ICDE**](https://icde2027.github.io/) IEEE International Conference on Data Engineering | 2026-06-11 (passed) | May 17-21, 2027, Copenhagen, Denmark | CCF A · CORE A* |
-| [**WACV**](https://wacv.thecvf.com/) IEEE/CVF Winter Conference on Applications of Computer Vision | 2026-06-26 (passed) | Jan 4 - 8, 2027, Disney Springs, Buena Vista, FL, USA | CORE A |
+| [**WACV**](https://wacv.thecvf.com/) IEEE/CVF Winter Conference on Applications of Computer Vision | 2026-06-26 (passed) | Jan 6 - 8, 2027, Disney Springs, Buena Vista, FL, USA | CORE A |
 | [**WISE**](https://conferences.sigappfr.org/wise2026/) International Conference on Web Information Systems Engineering | 2026-06-30 (passed) | November 1-5, 2026, Venice, Italy | CCF B · CORE B |
 | [**SIGMOD**](https://2027.sigmod.org/) ACM Conference on Management of Data | 2026-07-17 (passed) | June 13-19, 2027, Huntington Beach, CA, USA | CCF A · CORE A* |
 | [**SIGKDD**](https://kdd2027.kdd.org/) ACM Knowledge Discovery and Data Mining | 2026-07-26 (passed) | August 1-5, 2027, San Jose, California, USA | CCF A · CORE A* |
@@ -119,7 +119,7 @@ venue's own page before you plan around it.
 | [**ASP-DAC**](https://www.aspdac.com/aspdac2027/) Asia and South Pacific Design Automation Conference | 2026-07-18 (passed) | Jan 25-28, 2027, Hitotsubashi Hall, Tokyo, Japan | CCF C · CORE C |
 | [**HPCA**](https://conf.researchr.org/home/hpca-2027) IEEE International Symposium on High-Performance Computer Architecture | 2026-07-31 (passed) | March 20-24, 2027, Salt Lake City, Utah | CCF A · CORE A* |
 | [**ASPLOS**](https://www.asplos-conference.org/asplos2027/cfp/) International Conference on Architectural Support for Programming Languages and Operating Systems | 2026-09-09 (passed) | April 11-15, 2027, Crete, Greece | CCF A · CORE A* |
-| [**DATE**](https://www.date-conference.com/date-2027-call-papers) Design, Automation & Test in Europe | 2026-09-20 (passed) | March 22-24, 2027, Dresden, Germany | CCF B · CORE B |
+| [**DATE**](https://www.date-conference.com/call-for-papers) Design, Automation & Test in Europe | 2026-09-20 (passed) | March 22-24, 2027, Dresden, Germany | CCF B · CORE B |
 
 [See Hardware & EDA on the site](https://zhiqian.ai/conferences#eda)
 
