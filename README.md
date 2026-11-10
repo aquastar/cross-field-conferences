@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-09. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-10. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -87,7 +87,7 @@ venue's own page before you plan around it.
 | [**WSDM**](https://wsdm-conference.org/2027/) International Conference on Web Search and Data Mining | 2026-08-24 (passed) | February 15 - 19, 2027, Cordis, Hong Kong SAR, China | CCF B · CORE A |
 | [**ICDT**](https://edbticdt2027.github.io/) International Conference on Database Theory | 2026-09-10 (passed) | April 6-9, 2027, Lille, France | CCF B · CORE A |
 | [**ICRA**](https://2027.ieee-icra.org/) IEEE International Conference on Robotics and Automation | 2026-09-16 (passed) | May 24-28, 2027, Seoul, Republic of Korea | CCF B · CORE A* |
-| [**ICLR**](https://iclr.cc/Conferences/2027) International Conference on Learning Representations | 2026-09-25 (passed) | April 26-30, 2027, San Francisco, CA, USA | CCF A · CORE A* |
+| [**ICLR**](https://iclr.cc/Conferences/2027) International Conference on Learning Representations | 2026-09-25 (passed) | April 26-28, 2027, San Francisco, CA, USA | CCF A · CORE A* |
 | [**AISTATS**](https://virtual.aistats.org/Conferences/2027) International Conference on Artificial Intelligence and Statistics | 2026-10-06 (passed) | May 3-6, 2027, Montréal, Canada | CCF C · CORE A |
 | [**AAMAS**]() International Conference on Autonomous Agents and Multiagent Systems | 2026-10-08 (passed) |  | CCF B · CORE A* |
 | [**COLING**]() International Conference on Computational Linguistics | 2026-10-12 (passed) |  | CCF B · CORE B |
