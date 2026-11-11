@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-10. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-11. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [PES GM](https://pes-gm.org/2027-san-francisco/) | Power & energy | 2026-11-10 |
 | [L4DC](https://l4dc2027.control.ee.ethz.ch/) | Control | 2026-11-13 |
 | [CVPR](https://cvpr.thecvf.com/Conferences/2027) | AI · ML · Data Mining | 2026-11-16 |
 | [ISCA](https://iscaconf.org/isca2027/) | Hardware & EDA | 2026-11-16 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [MIDL](https://2027.midl.io/) | Biomedical | 2026-12-04 |
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
+| [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
 
 ## Computing
 
@@ -40,11 +40,11 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**CVPR**](https://cvpr.thecvf.com/Conferences/2027) IEEE/CVF Conference on Computer Vision and Pattern Recognition | 2026-11-16 | June 20-25, 2027, Seattle, WA, United States | CCF A · CORE A* |
+| [**CVPR**](https://cvpr.thecvf.com/Conferences/2027) IEEE/CVF Conference on Computer Vision and Pattern Recognition | 2026-11-16 | June 22-25, 2027, Seattle, WA, United States | CCF A · CORE A* |
 | [**DASFAA**](https://dasfaa2027.github.io/) Database Systems for Advanced Applications | 2026-11-25 | May 27-30, 2027, Shenyang, China | CCF B · CORE B |
 | [**ECML-PKDD**](https://ecmlpkdd.org/2027/) European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases | ~2026-12-13 | September 20-24, 2027, Eindhoven, The Netherlands | CCF B · CORE A |
 | [**ICAPS**](https://icaps27.icaps-conference.org/) International Conference on Automated Planning and Scheduling | 2026-12-14 | June 27 - July 2, 2027, Columbia, SC, USA | CCF B · CORE A* |
-| [**ACL**](https://2027.aclweb.org/) Annual Meeting of the Association for Computational Linguistics | 2027-01-04 | August 17-22, 2027, Kyoto, Japan | CCF A · CORE A* |
+| [**ACL**](https://2027.aclweb.org/) Annual Meeting of the Association for Computational Linguistics | 2027-01-04 | August 20-22, 2027, Kyoto, Japan | CCF A · CORE A* |
 | [**IJCAI**](https://2027.ijcai.org/) International Joint Conference on Artificial Intelligence | 2027-01-11 | August 7-13, 2027, Kyoto, Japan | CCF B · CORE A* |
 | [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 18-24, 2027, San Jose, California, USA | CCF A · CORE A* |
 | [**GECCO**](https://gecco-2027.sigevo.org/HomePage) Genetic and Evolutionary Computation Conference | 2027-01-25 | July 12-16, 2027, Kraków, Poland | CCF C · CORE A |
@@ -321,10 +321,10 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**PES GM**](https://pes-gm.org/2027-san-francisco/) IEEE Power & Energy Society General Meeting | 2026-11-10 | July 25-29, 2027, San Francisco, California, USA |  |
 | [**e-Energy**](https://energy.acm.org/conferences/eenergy/2027/) ACM International Conference on Future and Sustainable Energy Systems | 2027-01-15 | June 5-11, 2027, Atlanta, Georgia, USA |  |
 | [**SmartGridComm**](https://sgc2026.ieee-smartgridcomm.org/) IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids | ~2027-05-03 | October 26-29, 2026, College Station, Texas, USA |  |
 | [**PSCC**](https://pscc2028.dryfta.com/) Power Systems Computation Conference | ~2027-06-15 | June 26-30, 2028, Delft, Netherlands |  |
+| [**PES GM**](https://pes-gm.org/2027-san-francisco/) IEEE Power & Energy Society General Meeting | ~2027-11-10 | July 25-29, 2027, San Francisco, California, USA |  |
 
 [See Power & energy on the site](https://zhiqian.ai/conferences#power)
 
