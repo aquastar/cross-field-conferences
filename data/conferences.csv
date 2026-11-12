@@ -1,5 +1,4 @@
 acronym,name,field,field_label,kind,next_deadline,deadline_estimated,abstract_deadline,conference_dates,place,link,ccf,core,proceedings,note
-ICWSM,The International AAAI Conference on Web and Social Media,ai,AI · ML · Data Mining,ranked,2026-05-15,false,,TBD,"Edinburgh, Scotland",https://www.icwsm.org/2027/,B,A,full,
 ER,International Conference on Conceptual Modeling,ai,AI · ML · Data Mining,ranked,2026-05-19,false,,"October 6-8, 2026","St. John's, NL, Canada",https://www.er2026.org/,C,A,full,
 CIKM,ACM International Conference on Information and Knowledge Management,ai,AI · ML · Data Mining,ranked,2026-05-23,false,,"November 9-11, 2026","Rome, Italy",https://cikm2026.diag.uniroma1.it/,B,A,full,
 EMNLP,The annual Conference on Empirical Methods in Natural Language Processing,ai,AI · ML · Data Mining,ranked,2026-05-25,false,,"October 25-27, 2026","Budapest, Hungary (Hybrid)",https://2026.emnlp.org/,B,A*,full,
@@ -28,6 +27,7 @@ USENIX Security,USENIX Security Symposium,security,Security,ranked,2026-08-25,fa
 PacificVis,IEEE Pacific Visualization Symposium,vis,Visualization,ranked,2026-09-08,false,,"April 19-22, 2027","Busan, South Korea",https://pacificvis2027.github.io/,C,B,full,
 ASPLOS,International Conference on Architectural Support for Programming Languages and Operating Systems,eda,Hardware & EDA,ranked,2026-09-09,false,,"April 11-15, 2027","Crete, Greece",https://www.asplos-conference.org/asplos2027/cfp/,A,A*,full,
 ICDT,International Conference on Database Theory,ai,AI · ML · Data Mining,ranked,2026-09-10,false,,"April 6-9, 2027","Lille, France",https://edbticdt2027.github.io/,B,A,full,
+ICWSM,The International AAAI Conference on Web and Social Media,ai,AI · ML · Data Mining,ranked,2026-09-15,false,,TBD,"Edinburgh, Scotland",https://www.icwsm.org/2027/,B,A,full,
 ICALP,"EATCS International Colloquium on Automata, Languages, and Programming",theory,Theoretical CS,ranked,2026-09-15,false,,"July 5-9, 2027","Kraków, Poland",https://icalp.uj.edu.pl/,B,A,full,
 ICRA,IEEE International Conference on Robotics and Automation,ai,AI · ML · Data Mining,ranked,2026-09-16,false,,"May 24-28, 2027","Seoul, Republic of Korea",https://2027.ieee-icra.org/,B,A*,full,
 DATE,"Design, Automation & Test in Europe",eda,Hardware & EDA,ranked,2026-09-20,false,,"March 22-24, 2027","Dresden, Germany",https://www.date-conference.com/call-for-papers,B,B,full,
