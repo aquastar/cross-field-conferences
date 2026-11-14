@@ -697,23 +697,6 @@
   "note": ""
  },
  {
-  "acronym": "L4DC",
-  "name": "Learning for Dynamics and Control Conference",
-  "field": "control",
-  "field_label": "Control",
-  "kind": "ranked",
-  "next_deadline": "2026-11-13",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "June 16-18, 2027",
-  "place": "Stockholm, Sweden",
-  "link": "https://l4dc2027.control.ee.ethz.ch/",
-  "ccf": "",
-  "core": "",
-  "proceedings": "full",
-  "note": "Where machine learning and control meet, run since 2019, with proceedings in PMLR. Smaller and more selective than CDC or ACC. The 2027 edition is at KTH and reviews on OpenReview for the first time."
- },
- {
   "acronym": "CVPR",
   "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
   "field": "ai",
@@ -1698,6 +1681,23 @@
   "core": "",
   "proceedings": "full",
   "note": "The power society's large yearly meeting. One round, 5-page papers, about 800 accepted, archived on IEEE Xplore only if presented. Part 1 and Part 2 papers are not accepted. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
+ },
+ {
+  "acronym": "L4DC",
+  "name": "Learning for Dynamics and Control Conference",
+  "field": "control",
+  "field_label": "Control",
+  "kind": "ranked",
+  "next_deadline": "2027-11-13",
+  "deadline_estimated": true,
+  "abstract_deadline": "",
+  "conference_dates": "June 16-18, 2027",
+  "place": "Stockholm, Sweden",
+  "link": "https://l4dc2027.control.ee.ethz.ch/",
+  "ccf": "",
+  "core": "",
+  "proceedings": "full",
+  "note": "Where machine learning and control meet, run since 2019, with proceedings in PMLR. Smaller and more selective than CDC or ACC. The 2027 edition is at KTH and reviews on OpenReview for the first time. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
  },
  {
   "acronym": "ECCV",
