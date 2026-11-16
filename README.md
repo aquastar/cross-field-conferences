@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-15. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-16. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -47,9 +47,9 @@ venue's own page before you plan around it.
 | [**ACL**](https://2027.aclweb.org/) Annual Meeting of the Association for Computational Linguistics | 2027-01-04 | August 20-22, 2027, Kyoto, Japan | CCF A · CORE A* |
 | [**IJCAI**](https://2027.ijcai.org/) International Joint Conference on Artificial Intelligence | 2027-01-11 | August 7-13, 2027, Kyoto, Japan | CCF B · CORE A* |
 | [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 18-24, 2027, San Jose, California, USA | CCF A · CORE A* |
+| [**ICML**](https://icml.cc/Conferences/2027) International Conference on Machine Learning | 2027-01-22 | August 2-4, 2027, Riocentro, Rio de Janeiro, Brazil | CCF A · CORE A* |
 | [**GECCO**](https://gecco-2027.sigevo.org/HomePage) Genetic and Evolutionary Computation Conference | 2027-01-25 | July 12-16, 2027, Kraków, Poland | CCF C · CORE A |
 | [**COLT**](https://learningtheory.org/colt2027/) Annual Conference on Learning Theory | 2027-01-29 | June 28 - July 2, 2027, Tokyo, Japan | CCF B · CORE A* |
-| [**ICML**](https://icml.cc/Conferences/2027) International Conference on Machine Learning | ~2027-01-30 | August 2-4, 2027, Riocentro, Rio de Janeiro, Brazil | CCF A · CORE A* |
 | [**UAI**](https://www.auai.org/uai2026/) Conference on Uncertainty in Artificial Intelligence | ~2027-02-10 |  | CCF B · CORE A |
 | [**ICCBR**](https://2026.iccbr.org/) International Conference on Case-Based Reasoning | ~2027-02-26 |  | CCF B · CORE C |
 | [**ICDAR**]() International Conference on Document Analysis and Recognition | 2027-02-28 |  | CCF C · CORE A |
@@ -62,11 +62,11 @@ venue's own page before you plan around it.
 | [**ASONAM**](https://asonam.cpsc.ucalgary.ca/2026/CFP.php) IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining | ~2027-05-10 |  | CCF C · CORE B |
 | [**ISWC**](https://iswc2027.semanticweb.org/) International Semantic Web Conference | ~2027-05-14 | October 24-28, 2027, Montevideo, Uruguay | CCF B · CORE A |
 | [**NeurIPS**](https://neurips.cc/Conferences/2026) Conference on Neural Information Processing Systems | ~2027-05-15 |  | CCF A · CORE A* |
+| [**ER**](https://www.er2026.org/) International Conference on Conceptual Modeling | ~2027-05-19 |  | CCF C · CORE A |
 | [**SDM**](https://www.siam.org/conferences-events/siam-conferences/sdm26/) SIAM International Conference on Data Mining | ~2027-10-04 |  | CCF B · CORE A |
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
-| [**ER**](https://www.er2026.org/) International Conference on Conceptual Modeling | 2026-05-19 (passed) | October 6-8, 2026, St. John's, NL, Canada | CCF C · CORE A |
 | [**CIKM**](https://cikm2026.diag.uniroma1.it/) ACM International Conference on Information and Knowledge Management | 2026-05-23 (passed) | November 9-11, 2026, Rome, Italy | CCF B · CORE A |
 | [**EMNLP**](https://2026.emnlp.org/) The annual Conference on Empirical Methods in Natural Language Processing | 2026-05-25 (passed) | October 25-27, 2026, Budapest, Hungary (Hybrid) | CCF B · CORE A* |
 | [**BMVC**](https://bmvc2026.bmva.org/) British Machine Vision Conference | 2026-05-29 (passed) | November 23-26, 2026, Lancaster, UK | CCF C · CORE A |
