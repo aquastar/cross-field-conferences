@@ -11,15 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-16. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-17. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [CVPR](https://cvpr.thecvf.com/Conferences/2027) | AI · ML · Data Mining | 2026-11-16 |
-| [ISCA](https://iscaconf.org/isca2027/) | Hardware & EDA | 2026-11-16 |
 | [DAC](https://dac.com/2027/authors/call-for-contributions) | Hardware & EDA | 2026-11-18 |
 | [Dynamics Days US](https://www.ddays.org/2027/) | Dynamical systems | 2026-11-22 |
 | [SIAM DS](https://www.siam.org/conferences-events/siam-conferences/ds27/) | Dynamical systems | 2026-11-23 |
@@ -33,6 +31,8 @@ venue's own page before you plan around it.
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
 | [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
 | [ICAPS](https://icaps27.icaps-conference.org/) | AI · ML · Data Mining | 2026-12-14 |
+| [SST](https://www.theologysociety.org.uk/information/) | Theology | 2026-12-14 |
+| [CTS](https://collegetheology.org/Call-for-Papers) | Theology | 2026-12-15 |
 
 ## Computing
 
@@ -40,7 +40,6 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**CVPR**](https://cvpr.thecvf.com/Conferences/2027) IEEE/CVF Conference on Computer Vision and Pattern Recognition | 2026-11-16 | June 22-25, 2027, Seattle, WA, United States | CCF A · CORE A* |
 | [**DASFAA**](https://dasfaa2027.github.io/) Database Systems for Advanced Applications | 2026-11-25 | May 27-30, 2027, Shenyang, China | CCF B · CORE B |
 | [**ECML-PKDD**](https://ecmlpkdd.org/2027/) European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases | ~2026-12-13 | September 20-24, 2027, Eindhoven, The Netherlands | CCF B · CORE A |
 | [**ICAPS**](https://icaps27.icaps-conference.org/) International Conference on Automated Planning and Scheduling | 2026-12-14 | June 27 - July 2, 2027, Columbia, SC, USA | CCF B · CORE A* |
@@ -94,6 +93,7 @@ venue's own page before you plan around it.
 | [**ECIR**]() European Conference on Information Retrieval | 2026-10-12 (passed) |  | CCF C · CORE A |
 | [**NAACL**]() The Annual Conference of the North American Chapter of the Association for Computational Linguistics | 2026-10-12 (passed) |  | CCF B · CORE A |
 | [**WWW**](https://www2027.thewebconf.org/) International World Wide Web Conferences | 2026-10-25 (passed) | May 10 - 14, 2027, Dublin, Ireland | CCF A · CORE A* |
+| [**CVPR**](https://cvpr.thecvf.com/Conferences/2027) IEEE/CVF Conference on Computer Vision and Pattern Recognition | 2026-11-16 (passed) | June 22-25, 2027, Seattle, WA, United States | CCF A · CORE A* |
 
 [See AI · ML · Data Mining on the site](https://zhiqian.ai/conferences#ai)
 
@@ -112,7 +112,6 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**ISCA**](https://iscaconf.org/isca2027/) International Symposium on Computer Architecture | 2026-11-16 | June 5-9, 2027, Atlanta, Georgia, USA | CCF A · CORE A* |
 | [**DAC**](https://dac.com/2027/authors/call-for-contributions) Design Automation Conference | 2026-11-18 | July 11-14, 2027, San Jose, CA | CCF A · CORE TBR |
 | [**MICRO**](https://microarch.org/micro59/) IEEE/ACM International Symposium on Microarchitecture | ~2027-04-11 |  | CCF A · CORE TBR |
 | [**ICCAD**](https://iccad.com/2026) IEEE/ACM International Conference on Computer-Aided Design | ~2027-04-21 |  | CCF B · CORE A |
@@ -120,6 +119,7 @@ venue's own page before you plan around it.
 | [**HPCA**](https://conf.researchr.org/home/hpca-2027) IEEE International Symposium on High-Performance Computer Architecture | 2026-07-31 (passed) | March 20-24, 2027, Salt Lake City, Utah | CCF A · CORE A* |
 | [**ASPLOS**](https://www.asplos-conference.org/asplos2027/cfp/) International Conference on Architectural Support for Programming Languages and Operating Systems | 2026-09-09 (passed) | April 11-15, 2027, Crete, Greece | CCF A · CORE A* |
 | [**DATE**](https://www.date-conference.com/call-for-papers) Design, Automation & Test in Europe | 2026-09-20 (passed) | March 22-24, 2027, Dresden, Germany | CCF B · CORE B |
+| [**ISCA**](https://iscaconf.org/isca2027/) International Symposium on Computer Architecture | 2026-11-16 (passed) | June 5-9, 2027, Atlanta, Georgia, USA | CCF A · CORE A* |
 
 [See Hardware & EDA on the site](https://zhiqian.ai/conferences#eda)
 
