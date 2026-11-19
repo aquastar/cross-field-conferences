@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-18. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-19. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [DAC](https://dac.com/2027/authors/call-for-contributions) | Hardware & EDA | 2026-11-18 |
 | [Dynamics Days US](https://www.ddays.org/2027/) | Dynamical systems | 2026-11-22 |
 | [SIAM DS](https://www.siam.org/conferences-events/siam-conferences/ds27/) | Dynamical systems | 2026-11-23 |
 | [DASFAA](https://dasfaa2027.github.io/) | AI · ML · Data Mining | 2026-11-25 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [ICAPS](https://icaps27.icaps-conference.org/) | AI · ML · Data Mining | 2026-12-14 |
 | [SST](https://www.theologysociety.org.uk/information/) | Theology | 2026-12-14 |
 | [CTS](https://collegetheology.org/Call-for-Papers) | Theology | 2026-12-15 |
+| [IASD](https://iasdconferences.org/2027/) | Sleep & dreams | 2026-12-18 |
 
 ## Computing
 
@@ -112,7 +112,6 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**DAC**](https://dac.com/2027/authors/call-for-contributions) Design Automation Conference | 2026-11-18 | July 11-14, 2027, San Jose, CA | CCF A · CORE TBR |
 | [**MICRO**](https://microarch.org/micro59/) IEEE/ACM International Symposium on Microarchitecture | ~2027-04-11 |  | CCF A · CORE TBR |
 | [**ICCAD**](https://iccad.com/2026) IEEE/ACM International Conference on Computer-Aided Design | ~2027-04-21 |  | CCF B · CORE A |
 | [**ASP-DAC**](https://www.aspdac.com/aspdac2027/) Asia and South Pacific Design Automation Conference | 2026-07-18 (passed) | Jan 25-28, 2027, Hitotsubashi Hall, Tokyo, Japan | CCF C · CORE C |
@@ -120,6 +119,7 @@ venue's own page before you plan around it.
 | [**ASPLOS**](https://www.asplos-conference.org/asplos2027/cfp/) International Conference on Architectural Support for Programming Languages and Operating Systems | 2026-09-09 (passed) | April 11-15, 2027, Crete, Greece | CCF A · CORE A* |
 | [**DATE**](https://www.date-conference.com/call-for-papers) Design, Automation & Test in Europe | 2026-09-20 (passed) | March 22-24, 2027, Dresden, Germany | CCF B · CORE B |
 | [**ISCA**](https://iscaconf.org/isca2027/) International Symposium on Computer Architecture | 2026-11-16 (passed) | June 5-9, 2027, Atlanta, Georgia, USA | CCF A · CORE A* |
+| [**DAC**](https://dac.com/2027/authors/call-for-contributions) Design Automation Conference | 2026-11-18 (passed) | July 11-14, 2027, San Jose, CA | CCF A · CORE TBR |
 
 [See Hardware & EDA on the site](https://zhiqian.ai/conferences#eda)
 
