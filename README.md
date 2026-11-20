@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-19. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-20. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -45,7 +45,7 @@ venue's own page before you plan around it.
 | [**ICAPS**](https://icaps27.icaps-conference.org/) International Conference on Automated Planning and Scheduling | 2026-12-14 | June 27 - July 2, 2027, Columbia, SC, USA | CCF B · CORE A* |
 | [**ACL**](https://2027.aclweb.org/) Annual Meeting of the Association for Computational Linguistics | 2027-01-04 | August 20-22, 2027, Kyoto, Japan | CCF A · CORE A* |
 | [**IJCAI**](https://2027.ijcai.org/) International Joint Conference on Artificial Intelligence | 2027-01-11 | August 7-13, 2027, Kyoto, Japan | CCF B · CORE A* |
-| [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 18-24, 2027, San Jose, California, USA | CCF A · CORE A* |
+| [**SIGIR**](https://sigir2027.org/) International Conference on Research on Development in Information Retrieval | 2027-01-21 | July 20-22, 2027, San Jose, California, USA | CCF A · CORE A* |
 | [**ICML**](https://icml.cc/Conferences/2027) International Conference on Machine Learning | 2027-01-22 | August 2-4, 2027, Riocentro, Rio de Janeiro, Brazil | CCF A · CORE A* |
 | [**GECCO**](https://gecco-2027.sigevo.org/HomePage) Genetic and Evolutionary Computation Conference | 2027-01-25 | July 12-16, 2027, Kraków, Poland | CCF C · CORE A |
 | [**COLT**](https://learningtheory.org/colt2027/) Annual Conference on Learning Theory | 2027-01-29 | June 28 - July 2, 2027, Tokyo, Japan | CCF B · CORE A* |
@@ -62,11 +62,11 @@ venue's own page before you plan around it.
 | [**ISWC**](https://iswc2027.semanticweb.org/) International Semantic Web Conference | ~2027-05-14 | October 24-28, 2027, Montevideo, Uruguay | CCF B · CORE A |
 | [**NeurIPS**](https://neurips.cc/Conferences/2026) Conference on Neural Information Processing Systems | ~2027-05-15 |  | CCF A · CORE A* |
 | [**ER**](https://www.er2026.org/) International Conference on Conceptual Modeling | ~2027-05-19 |  | CCF C · CORE A |
+| [**CIKM**](https://cikm2026.diag.uniroma1.it/) ACM International Conference on Information and Knowledge Management | ~2027-05-23 |  | CCF B · CORE A |
 | [**SDM**](https://www.siam.org/conferences-events/siam-conferences/sdm26/) SIAM International Conference on Data Mining | ~2027-10-04 |  | CCF B · CORE A |
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
-| [**CIKM**](https://cikm2026.diag.uniroma1.it/) ACM International Conference on Information and Knowledge Management | 2026-05-23 (passed) | November 9-11, 2026, Rome, Italy | CCF B · CORE A |
 | [**EMNLP**](https://2026.emnlp.org/) The annual Conference on Empirical Methods in Natural Language Processing | 2026-05-25 (passed) | October 25-27, 2026, Budapest, Hungary (Hybrid) | CCF B · CORE A* |
 | [**BMVC**](https://bmvc2026.bmva.org/) British Machine Vision Conference | 2026-05-29 (passed) | November 23-26, 2026, Lancaster, UK | CCF C · CORE A |
 | [**PODS**](https://2027.sigmod.org/) ACM Symposium on Principles of Database Systems | 2026-05-30 (passed) | June 13-19, 2027, Huntington Beach, California, USA | CCF B · CORE A* |
@@ -128,7 +128,7 @@ venue's own page before you plan around it.
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
 | [**SOCG**](https://cgweek27.computational-geometry.org/) International Symposium on Computational Geometry | 2026-12-02 | June 21-25, 2027, Bengaluru, India | CCF B · CORE A |
-| [**LICS**](https://lics.siglog.org/lics27/) IEEE Symposium on Logic in Computer Science | ~2027-01-23 | June 21-24, 2027, Montréal, Canada | CCF A · CORE A* |
+| [**LICS**](https://lics.siglog.org/lics27/) IEEE Symposium on Logic in Computer Science | 2027-01-21 | June 21-24, 2027, Montréal, Canada | CCF A · CORE A* |
 | [**CCC**](https://computationalcomplexity.org/) Computational Complexity Conference | ~2027-02-07 | July 19-22, 2027, Seattle, Washington, USA | CCF B · CORE A |
 | [**FOCS**](https://sanjeevkhanna.org/FOCS2026_CFP.html) IEEE Symposium on Foundations of Computer Science | ~2027-04-03 |  | CCF A · CORE A* |
 | [**ESA**](https://algo-conference.org/2026/esa/) European Symposium on Algorithms | ~2027-04-23 |  | CCF B · CORE A |
