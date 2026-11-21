@@ -7,7 +7,7 @@
   "issn": "0162-8828",
   "ccf": "A",
   "citations_per_paper": 28.4,
-  "h_index": 607,
+  "h_index": 606,
   "link": "https://dblp.org/db/journals/pami/index.html"
  },
  {
@@ -72,7 +72,7 @@
   "publisher": "IEEE",
   "issn": "1556-6013",
   "ccf": "A",
-  "citations_per_paper": 12.2,
+  "citations_per_paper": 12.1,
   "h_index": 221,
   "link": "https://dblp.org/db/journals/tifs/index.html"
  },
@@ -94,7 +94,7 @@
   "publisher": "ACM",
   "issn": "2471-2566",
   "ccf": "B",
-  "citations_per_paper": 6.5,
+  "citations_per_paper": 7.1,
   "h_index": 48,
   "link": "https://dblp.org/db/journals/tissec/index.html"
  },
@@ -116,7 +116,7 @@
   "publisher": "IOS Press",
   "issn": "0926-227X",
   "ccf": "B",
-  "citations_per_paper": 2.4,
+  "citations_per_paper": 2.5,
   "h_index": 82,
   "link": "https://dblp.org/db/journals/jcs/index.html"
  },
@@ -127,7 +127,7 @@
   "publisher": "IEEE",
   "issn": "0278-0070",
   "ccf": "A",
-  "citations_per_paper": 4.8,
+  "citations_per_paper": 4.7,
   "h_index": 201,
   "link": "https://dblp.org/db/journals/tcad/index.html"
  },
@@ -149,7 +149,7 @@
   "publisher": "ACM",
   "issn": "1084-4309",
   "ccf": "B",
-  "citations_per_paper": 4.6,
+  "citations_per_paper": 4.5,
   "h_index": 76,
   "link": "https://dblp.org/db/journals/todaes/index.html"
  },
@@ -226,7 +226,7 @@
   "publisher": "Wiley",
   "issn": "0143-9782",
   "ccf": "N",
-  "citations_per_paper": 1.7,
+  "citations_per_paper": 1.9,
   "h_index": 118,
   "link": ""
  },
@@ -314,7 +314,7 @@
   "publisher": "Elsevier (IFAC)",
   "issn": "1367-5788",
   "ccf": "N",
-  "citations_per_paper": 19.6,
+  "citations_per_paper": 19.5,
   "h_index": 147,
   "link": "https://dblp.org/db/journals/arc/index.html"
  },
@@ -468,8 +468,8 @@
   "publisher": "Elsevier",
   "issn": "0378-8733",
   "ccf": "N",
-  "citations_per_paper": 3.1,
-  "h_index": 188,
+  "citations_per_paper": 3.2,
+  "h_index": 189,
   "link": "https://dblp.org/db/journals/socnet/index.html"
  },
  {
@@ -512,7 +512,7 @@
   "publisher": "ASA / Taylor & Francis",
   "issn": "0162-1459",
   "ccf": "N",
-  "citations_per_paper": 6.8,
+  "citations_per_paper": 7,
   "h_index": 664,
   "link": ""
  },
@@ -567,7 +567,7 @@
   "publisher": "INFORMS",
   "issn": "0025-1909",
   "ccf": "N",
-  "citations_per_paper": 9.7,
+  "citations_per_paper": 9.6,
   "h_index": 531,
   "link": "https://dblp.org/db/journals/mansci/index.html"
  },
@@ -611,7 +611,7 @@
   "publisher": "SIAM",
   "issn": "2577-0187",
   "ccf": "N",
-  "citations_per_paper": 5.8,
+  "citations_per_paper": 5.9,
   "h_index": 51,
   "link": "https://dblp.org/db/journals/simods/index.html"
  },
@@ -645,7 +645,7 @@
   "issn": "1097-6256",
   "ccf": "N",
   "citations_per_paper": 18.4,
-  "h_index": 637,
+  "h_index": 638,
   "link": ""
  },
  {
@@ -655,7 +655,7 @@
   "publisher": "MIT Press",
   "issn": "0898-929X",
   "ccf": "N",
-  "citations_per_paper": 3.9,
+  "citations_per_paper": 4.1,
   "h_index": 332,
   "link": ""
  },
@@ -699,7 +699,7 @@
   "publisher": "eLife",
   "issn": "2050-084X",
   "ccf": "N",
-  "citations_per_paper": 3.5,
+  "citations_per_paper": 3.6,
   "h_index": 333,
   "link": ""
  },
@@ -710,7 +710,7 @@
   "publisher": "APA",
   "issn": "0033-295X",
   "ccf": "N",
-  "citations_per_paper": 7.8,
+  "citations_per_paper": 8.6,
   "h_index": 536,
   "link": ""
  },
@@ -721,7 +721,7 @@
   "publisher": "SAGE (APS)",
   "issn": "0956-7976",
   "ccf": "N",
-  "citations_per_paper": 6.9,
+  "citations_per_paper": 6.8,
   "h_index": 465,
   "link": ""
  },
@@ -743,7 +743,7 @@
   "publisher": "APA",
   "issn": "0096-3445",
   "ccf": "N",
-  "citations_per_paper": 3.4,
+  "citations_per_paper": 3.9,
   "h_index": 318,
   "link": ""
  },
@@ -754,7 +754,7 @@
   "publisher": "Elsevier",
   "issn": "0010-0277",
   "ccf": "N",
-  "citations_per_paper": 4.5,
+  "citations_per_paper": 4.4,
   "h_index": 388,
   "link": ""
  },
@@ -820,7 +820,7 @@
   "publisher": "APA (IASD)",
   "issn": "1053-0797",
   "ccf": "N",
-  "citations_per_paper": 0.8,
+  "citations_per_paper": 1.1,
   "h_index": 61,
   "link": ""
  },
@@ -864,7 +864,7 @@
   "publisher": "Nature Portfolio",
   "issn": "2398-6352",
   "ccf": "N",
-  "citations_per_paper": 27.8,
+  "citations_per_paper": 27.7,
   "h_index": 193,
   "link": ""
  },
@@ -875,7 +875,7 @@
   "publisher": "Elsevier",
   "issn": "1361-8415",
   "ccf": "C",
-  "citations_per_paper": 21.9,
+  "citations_per_paper": 21.8,
   "h_index": 245,
   "link": "https://dblp.org/db/journals/mia/index.html"
  },
@@ -985,7 +985,7 @@
   "publisher": "Nature Portfolio",
   "issn": "1476-1122",
   "ccf": "N",
-  "citations_per_paper": 24.5,
+  "citations_per_paper": 24.3,
   "h_index": 675,
   "link": ""
  },
@@ -996,7 +996,7 @@
   "publisher": "Nature Portfolio",
   "issn": "2057-3960",
   "ccf": "N",
-  "citations_per_paper": 15.7,
+  "citations_per_paper": 15.6,
   "h_index": 153,
   "link": ""
  },
@@ -1007,7 +1007,7 @@
   "publisher": "RSC",
   "issn": "2635-098X",
   "ccf": "N",
-  "citations_per_paper": 8.2,
+  "citations_per_paper": 8.4,
   "h_index": 59,
   "link": ""
  },
@@ -1029,7 +1029,7 @@
   "publisher": "ACS",
   "issn": "0897-4756",
   "ccf": "N",
-  "citations_per_paper": 7.2,
+  "citations_per_paper": 7.1,
   "h_index": 497,
   "link": ""
  },
@@ -1051,7 +1051,7 @@
   "publisher": "IEEE PES",
   "issn": "1949-3053",
   "ccf": "N",
-  "citations_per_paper": 12.4,
+  "citations_per_paper": 12.3,
   "h_index": 302,
   "link": ""
  },
@@ -1062,7 +1062,7 @@
   "publisher": "IEEE PES",
   "issn": "1949-3029",
   "ccf": "N",
-  "citations_per_paper": 10.6,
+  "citations_per_paper": 10.5,
   "h_index": 213,
   "link": ""
  },
@@ -1095,7 +1095,7 @@
   "publisher": "ACM",
   "issn": "0004-5411",
   "ccf": "A",
-  "citations_per_paper": 7.1,
+  "citations_per_paper": 7.2,
   "h_index": 327,
   "link": "https://dblp.org/db/journals/jacm/index.html"
  },
@@ -1139,7 +1139,7 @@
   "publisher": "ACM",
   "issn": "1549-6325",
   "ccf": "B",
-  "citations_per_paper": 3.1,
+  "citations_per_paper": 3.3,
   "h_index": 95,
   "link": "https://dblp.org/db/journals/talg/index.html"
  },
@@ -1161,7 +1161,7 @@
   "publisher": "APS",
   "issn": "2691-3399",
   "ccf": "N",
-  "citations_per_paper": 18.7,
+  "citations_per_paper": 17.9,
   "h_index": 131,
   "link": ""
  },
@@ -1172,7 +1172,7 @@
   "publisher": "Verein Quantum",
   "issn": "2521-327X",
   "ccf": "N",
-  "citations_per_paper": 10.6,
+  "citations_per_paper": 10.3,
   "h_index": 140,
   "link": "https://dblp.org/db/journals/quantum/index.html"
  },
@@ -1183,7 +1183,7 @@
   "publisher": "Nature Portfolio",
   "issn": "2056-6387",
   "ccf": "N",
-  "citations_per_paper": 13.5,
+  "citations_per_paper": 13.1,
   "h_index": 135,
   "link": ""
  },
@@ -1194,7 +1194,7 @@
   "publisher": "APS",
   "issn": "1050-2947",
   "ccf": "N",
-  "citations_per_paper": 3.7,
+  "citations_per_paper": 3.6,
   "h_index": 490,
   "link": ""
  },
@@ -1216,7 +1216,7 @@
   "publisher": "ACM",
   "issn": "2643-6809",
   "ccf": "N",
-  "citations_per_paper": 10.1,
+  "citations_per_paper": 13.3,
   "h_index": 43,
   "link": ""
  },
@@ -1227,7 +1227,7 @@
   "publisher": "APS",
   "issn": "0031-9007",
   "ccf": "N",
-  "citations_per_paper": 12,
+  "citations_per_paper": 11.6,
   "h_index": 1073,
   "link": ""
  },
@@ -1238,7 +1238,7 @@
   "publisher": "Nature Portfolio",
   "issn": "1745-2473",
   "ccf": "N",
-  "citations_per_paper": 12.7,
+  "citations_per_paper": 12.4,
   "h_index": 444,
   "link": ""
  },
@@ -1249,7 +1249,7 @@
   "publisher": "APS",
   "issn": "2160-3308",
   "ccf": "N",
-  "citations_per_paper": 21.6,
+  "citations_per_paper": 20.8,
   "h_index": 273,
   "link": ""
  },
@@ -1260,7 +1260,7 @@
   "publisher": "APS",
   "issn": "0034-6861",
   "ccf": "N",
-  "citations_per_paper": 60.2,
+  "citations_per_paper": 59,
   "h_index": 655,
   "link": ""
  },
@@ -1293,7 +1293,7 @@
   "publisher": "Princeton / IAS",
   "issn": "0003-486X",
   "ccf": "N",
-  "citations_per_paper": 11.9,
+  "citations_per_paper": 12,
   "h_index": 375,
   "link": ""
  },
@@ -1326,7 +1326,7 @@
   "publisher": "AMS",
   "issn": "0894-0347",
   "ccf": "N",
-  "citations_per_paper": 8.9,
+  "citations_per_paper": 9.2,
   "h_index": 202,
   "link": ""
  },
@@ -1337,7 +1337,7 @@
   "publisher": "Springer / IHÉS",
   "issn": "0073-8301",
   "ccf": "N",
-  "citations_per_paper": 8.4,
+  "citations_per_paper": 7.9,
   "h_index": 177,
   "link": ""
  },
@@ -1359,7 +1359,7 @@
   "publisher": "Elsevier",
   "issn": "0001-8708",
   "ccf": "N",
-  "citations_per_paper": 3,
+  "citations_per_paper": 3.1,
   "h_index": 235,
   "link": ""
  },
@@ -1381,7 +1381,7 @@
   "publisher": "Wiley (Eurographics)",
   "issn": "0167-7055",
   "ccf": "B",
-  "citations_per_paper": 4.2,
+  "citations_per_paper": 4.1,
   "h_index": 190,
   "link": "https://dblp.org/db/journals/cgf/index.html"
  },
@@ -1425,7 +1425,7 @@
   "publisher": "Journal of Philosophy, Inc.",
   "issn": "0022-362X",
   "ccf": "N",
-  "citations_per_paper": 1.8,
+  "citations_per_paper": 1.9,
   "h_index": 312,
   "link": ""
  },
@@ -1447,7 +1447,7 @@
   "publisher": "Oxford",
   "issn": "0026-4423",
   "ccf": "N",
-  "citations_per_paper": 2.2,
+  "citations_per_paper": 2.3,
   "h_index": 186,
   "link": ""
  },
@@ -1491,7 +1491,7 @@
   "publisher": "Springer",
   "issn": "0924-6495",
   "ccf": "N",
-  "citations_per_paper": 11.4,
+  "citations_per_paper": 11.3,
   "h_index": 97,
   "link": ""
  },
@@ -1524,7 +1524,7 @@
   "publisher": "Wiley (SSSR)",
   "issn": "0021-8294",
   "ccf": "N",
-  "citations_per_paper": 2.5,
+  "citations_per_paper": 2.6,
   "h_index": 221,
   "link": ""
  },
@@ -1579,7 +1579,7 @@
   "publisher": "Taylor & Francis",
   "issn": "2153-599X",
   "ccf": "N",
-  "citations_per_paper": 1.9,
+  "citations_per_paper": 2,
   "h_index": 50,
   "link": ""
  },
@@ -1645,7 +1645,7 @@
   "publisher": "Open Library of Humanities",
   "issn": "0591-2385",
   "ccf": "N",
-  "citations_per_paper": 1.2,
+  "citations_per_paper": 1.4,
   "h_index": 58,
   "link": ""
  },
@@ -1711,7 +1711,7 @@
   "publisher": "ACM",
   "issn": "1556-4681",
   "ccf": "B",
-  "citations_per_paper": 9.7,
+  "citations_per_paper": 10.8,
   "h_index": 103,
   "link": "https://dblp.org/db/journals/tkdd/index.html"
  },
@@ -1755,7 +1755,7 @@
   "publisher": "OpenReview",
   "issn": "2835-8856",
   "ccf": "N",
-  "citations_per_paper": 14,
+  "citations_per_paper": 14.6,
   "h_index": 138,
   "link": "https://dblp.org/db/journals/tmlr/index.html"
  }
