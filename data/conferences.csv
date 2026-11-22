@@ -1,5 +1,4 @@
 acronym,name,field,field_label,kind,next_deadline,deadline_estimated,abstract_deadline,conference_dates,place,link,ccf,core,proceedings,note
-EMNLP,The annual Conference on Empirical Methods in Natural Language Processing,ai,AI · ML · Data Mining,ranked,2026-05-25,false,,"October 25-27, 2026","Budapest, Hungary (Hybrid)",https://2026.emnlp.org/,B,A*,full,
 BMVC,British Machine Vision Conference,ai,AI · ML · Data Mining,ranked,2026-05-29,false,,"November 23-26, 2026","Lancaster, UK",https://bmvc2026.bmva.org/,C,A,full,
 PODS,ACM Symposium on Principles of Database Systems,ai,AI · ML · Data Mining,ranked,2026-05-30,false,,"June 13-19, 2027","Huntington Beach, California, USA",https://2027.sigmod.org/,B,A*,full,
 VLDB,International Conference on Very Large Data Bases,ai,AI · ML · Data Mining,ranked,2026-06-01,false,,"August 23 - August 27, 2027","Athens, Greece",https://www.vldb.org/2027/,A,A*,full,
@@ -17,6 +16,7 @@ ASP-DAC,Asia and South Pacific Design Automation Conference,eda,Hardware & EDA,r
 SIGKDD,ACM Knowledge Discovery and Data Mining,ai,AI · ML · Data Mining,ranked,2026-07-26,false,,"August 1-5, 2027","San Jose, California, USA",https://kdd2027.kdd.org/,A,A*,full,
 AAAI,AAAI Conference on Artificial Intelligence,ai,AI · ML · Data Mining,ranked,2026-07-28,false,,"February 16-23, 2027","Montréal, Québec, Canada",https://aaai.org/conference/aaai/aaai-27/,A,A*,full,
 HPCA,IEEE International Symposium on High-Performance Computer Architecture,eda,Hardware & EDA,ranked,2026-07-31,false,,"March 20-24, 2027","Salt Lake City, Utah",https://conf.researchr.org/home/hpca-2027,A,A*,full,
+EMNLP,The annual Conference on Empirical Methods in Natural Language Processing,ai,AI · ML · Data Mining,ranked,2026-08-02,false,,"October 25-27, 2026","Budapest, Hungary (Hybrid)",https://2026.emnlp.org/,B,A*,full,
 EACL,The Annual Conference of the European Chapter of the Association for Computational Linguistics,ai,AI · ML · Data Mining,ranked,2026-08-03,false,,"March 9-14, 2027","Athens, Greece",https://2027.eacl.org/,,A,full,
 CIDR,International Conference on Innovative Data Systems Research,ai,AI · ML · Data Mining,ranked,2026-08-04,false,,"January 24-27, 2027","Amsterdam, The Netherlands",https://www.cidrdb.org/cidr2027/,B,A,full,
 NDSS,Network and Distributed System Security (NDSS) Symposium,security,Security,ranked,2026-08-19,false,,"March 22 - March 26, 2027","Seoul, Republic of Korea",https://www.ndss-symposium.org/ndss2027/,A,A*,full,

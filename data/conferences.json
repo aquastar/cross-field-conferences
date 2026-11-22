@@ -1,22 +1,5 @@
 [
  {
-  "acronym": "EMNLP",
-  "name": "The annual Conference on Empirical Methods in Natural Language Processing",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2026-05-25",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "October 25-27, 2026",
-  "place": "Budapest, Hungary (Hybrid)",
-  "link": "https://2026.emnlp.org/",
-  "ccf": "B",
-  "core": "A*",
-  "proceedings": "full",
-  "note": ""
- },
- {
   "acronym": "BMVC",
   "name": "British Machine Vision Conference",
   "field": "ai",
@@ -301,6 +284,23 @@
   "place": "Salt Lake City, Utah",
   "link": "https://conf.researchr.org/home/hpca-2027",
   "ccf": "A",
+  "core": "A*",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
+  "acronym": "EMNLP",
+  "name": "The annual Conference on Empirical Methods in Natural Language Processing",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2026-08-02",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "October 25-27, 2026",
+  "place": "Budapest, Hungary (Hybrid)",
+  "link": "https://2026.emnlp.org/",
+  "ccf": "B",
   "core": "A*",
   "proceedings": "full",
   "note": ""

@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-21. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-22. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -67,7 +67,6 @@ venue's own page before you plan around it.
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
-| [**EMNLP**](https://2026.emnlp.org/) The annual Conference on Empirical Methods in Natural Language Processing | 2026-05-25 (passed) | October 25-27, 2026, Budapest, Hungary (Hybrid) | CCF B · CORE A* |
 | [**BMVC**](https://bmvc2026.bmva.org/) British Machine Vision Conference | 2026-05-29 (passed) | November 23-26, 2026, Lancaster, UK | CCF C · CORE A |
 | [**PODS**](https://2027.sigmod.org/) ACM Symposium on Principles of Database Systems | 2026-05-30 (passed) | June 13-19, 2027, Huntington Beach, California, USA | CCF B · CORE A* |
 | [**VLDB**](https://www.vldb.org/2027/) International Conference on Very Large Data Bases | 2026-06-01 (passed) | August 23 - August 27, 2027, Athens, Greece | CCF A · CORE A* |
@@ -80,6 +79,7 @@ venue's own page before you plan around it.
 | [**SIGMOD**](https://2027.sigmod.org/) ACM Conference on Management of Data | 2026-07-17 (passed) | June 13-19, 2027, Huntington Beach, CA, USA | CCF A · CORE A* |
 | [**SIGKDD**](https://kdd2027.kdd.org/) ACM Knowledge Discovery and Data Mining | 2026-07-26 (passed) | August 1-5, 2027, San Jose, California, USA | CCF A · CORE A* |
 | [**AAAI**](https://aaai.org/conference/aaai/aaai-27/) AAAI Conference on Artificial Intelligence | 2026-07-28 (passed) | February 16-23, 2027, Montréal, Québec, Canada | CCF A · CORE A* |
+| [**EMNLP**](https://2026.emnlp.org/) The annual Conference on Empirical Methods in Natural Language Processing | 2026-08-02 (passed) | October 25-27, 2026, Budapest, Hungary (Hybrid) | CCF B · CORE A* |
 | [**EACL**](https://2027.eacl.org/) The Annual Conference of the European Chapter of the Association for Computational Linguistics | 2026-08-03 (passed) | March 9-14, 2027, Athens, Greece | CORE A |
 | [**CIDR**](https://www.cidrdb.org/cidr2027/) International Conference on Innovative Data Systems Research | 2026-08-04 (passed) | January 24-27, 2027, Amsterdam, The Netherlands | CCF B · CORE A |
 | [**WSDM**](https://wsdm-conference.org/2027/) International Conference on Web Search and Data Mining | 2026-08-24 (passed) | February 16 - 18, 2027, Cordis, Hong Kong SAR, China | CCF B · CORE A |
