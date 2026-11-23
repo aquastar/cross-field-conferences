@@ -11,14 +11,13 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-22. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-23. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
 
 | Venue | Field | Deadline |
 |---|---|---|
-| [Dynamics Days US](https://www.ddays.org/2027/) | Dynamical systems | 2026-11-22 |
 | [SIAM DS](https://www.siam.org/conferences-events/siam-conferences/ds27/) | Dynamical systems | 2026-11-23 |
 | [DASFAA](https://dasfaa2027.github.io/) | AI · ML · Data Mining | 2026-11-25 |
 | [APS Annual Convention](https://www.psychologicalscience.org/conventions/2027-aps-annual-convention) | Psychology | 2026-12-01 |
@@ -33,6 +32,7 @@ venue's own page before you plan around it.
 | [SST](https://www.theologysociety.org.uk/information/) | Theology | 2026-12-14 |
 | [CTS](https://collegetheology.org/Call-for-Papers) | Theology | 2026-12-15 |
 | [IASD](https://iasdconferences.org/2027/) | Sleep & dreams | 2026-12-18 |
+| [ACL](https://2027.aclweb.org/) | AI · ML · Data Mining | 2027-01-04 |
 
 ## Computing
 
@@ -198,10 +198,10 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
-| [**Dynamics Days US**](https://www.ddays.org/2027/) Dynamics Days US | 2026-11-22 | , La Jolla, California, USA |  |
 | [**SIAM DS**](https://www.siam.org/conferences-events/siam-conferences/ds27/) SIAM Conference on Applications of Dynamical Systems | 2026-11-23 | May 23-27, 2027, Atlanta, Georgia, USA |  |
 | [**Dynamics Days Europe**](https://sites.google.com/view/ddayseurope) Dynamics Days Europe | ~2027-04-27 |  |  |
 | [**AGU**](https://www.agu.org/annual-meeting) American Geophysical Union Annual Meeting | ~2027-08-05 | December 7-11, 2026, San Francisco, California, USA |  |
+| [**Dynamics Days US**](https://www.ddays.org/2027/) Dynamics Days US | ~2027-11-22 | , La Jolla, California, USA |  |
 
 [See Dynamical systems on the site](https://zhiqian.ai/conferences#dynsys)
 
