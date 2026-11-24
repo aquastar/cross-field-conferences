@@ -671,7 +671,7 @@
   "next_deadline": "2026-11-16",
   "deadline_estimated": false,
   "abstract_deadline": "",
-  "conference_dates": "June 22-25, 2027",
+  "conference_dates": "June 22-24, 2027",
   "place": "Seattle, WA, United States",
   "link": "https://cvpr.thecvf.com/Conferences/2027",
   "ccf": "A",
@@ -2181,8 +2181,8 @@
   "field": "dynsys",
   "field_label": "Dynamical systems",
   "kind": "notable",
-  "next_deadline": "2026-11-23",
-  "deadline_estimated": false,
+  "next_deadline": "2028-11-23",
+  "deadline_estimated": true,
   "abstract_deadline": "",
   "conference_dates": "May 23-27, 2027",
   "place": "Atlanta, Georgia, USA",
@@ -2190,7 +2190,7 @@
   "ccf": "",
   "core": "",
   "proceedings": "none",
-  "note": "Every other year. One presentation per person, fully in person. Propose a minisymposium of four talks first, or send a contributed abstract by the later date."
+  "note": "Every other year. One presentation per person, fully in person. Propose a minisymposium of four talks first, or send a contributed abstract by the later date. The meeting shown is the next one to attend, which is a cycle ahead of the estimated deadline beside it."
  },
  {
   "acronym": "Epidemics",
