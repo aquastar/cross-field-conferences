@@ -1,5 +1,4 @@
 acronym,name,field,field_label,kind,next_deadline,deadline_estimated,abstract_deadline,conference_dates,place,link,ccf,core,proceedings,note
-BMVC,British Machine Vision Conference,ai,AI · ML · Data Mining,ranked,2026-05-29,false,,"November 23-26, 2026","Lancaster, UK",https://bmvc2026.bmva.org/,C,A,full,
 PODS,ACM Symposium on Principles of Database Systems,ai,AI · ML · Data Mining,ranked,2026-05-30,false,,"June 13-19, 2027","Huntington Beach, California, USA",https://2027.sigmod.org/,B,A*,full,
 VLDB,International Conference on Very Large Data Bases,ai,AI · ML · Data Mining,ranked,2026-06-01,false,,"August 23 - August 27, 2027","Athens, Greece",https://www.vldb.org/2027/,A,A*,full,
 SIGSPATIAL,ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,ai,AI · ML · Data Mining,ranked,2026-06-05,false,,"November 3-6, 2026","Riverside, CA, USA",https://sigspatial2026.sigspatial.org/,C,A,full,
@@ -86,6 +85,7 @@ SmartGridComm,"IEEE International Conference on Communications, Control, and Com
 ASONAM,IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,ai,AI · ML · Data Mining,ranked,2027-05-10,true,,,,https://asonam.cpsc.ucalgary.ca/2026/CFP.php,C,B,full,"Ranked CCF C / CORE B, so below this page's usual bar, but it is the dedicated social-network analysis venue."
 ISWC,International Semantic Web Conference,ai,AI · ML · Data Mining,ranked,2027-05-14,true,,"October 24-28, 2027","Montevideo, Uruguay",https://iswc2027.semanticweb.org/,B,A,full,
 NeurIPS,Conference on Neural Information Processing Systems,ai,AI · ML · Data Mining,ranked,2027-05-15,true,,,,https://neurips.cc/Conferences/2026,A,A*,full,
+BMVC,British Machine Vision Conference,ai,AI · ML · Data Mining,ranked,2027-05-16,true,,,,https://bmvc2026.bmva.org/,C,A,full,
 ER,International Conference on Conceptual Modeling,ai,AI · ML · Data Mining,ranked,2027-05-19,true,,,,https://www.er2026.org/,C,A,full,
 AIES,"AAAI/ACM Conference on AI, Ethics, and Society",philosophy,Philosophy,ranked,2027-05-21,true,,,,https://www.aies-conference.com/,,,full,"Ten-page double-blind papers written for a mixed audience, with chairs from computing, law, social science and philosophy; proceedings in the AAAI digital library. The 2026 meeting was in Malmo; 2027 is not announced, so the date shown is 2026's rolled forward."
 CIKM,ACM International Conference on Information and Knowledge Management,ai,AI · ML · Data Mining,ranked,2027-05-23,true,,,,https://cikm2026.diag.uniroma1.it/,B,A,full,

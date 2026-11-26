@@ -1,22 +1,5 @@
 [
  {
-  "acronym": "BMVC",
-  "name": "British Machine Vision Conference",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2026-05-29",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "November 23-26, 2026",
-  "place": "Lancaster, UK",
-  "link": "https://bmvc2026.bmva.org/",
-  "ccf": "C",
-  "core": "A",
-  "proceedings": "full",
-  "note": ""
- },
- {
   "acronym": "PODS",
   "name": "ACM Symposium on Principles of Database Systems",
   "field": "ai",
@@ -1475,6 +1458,23 @@
   "link": "https://neurips.cc/Conferences/2026",
   "ccf": "A",
   "core": "A*",
+  "proceedings": "full",
+  "note": ""
+ },
+ {
+  "acronym": "BMVC",
+  "name": "British Machine Vision Conference",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2027-05-16",
+  "deadline_estimated": true,
+  "abstract_deadline": "",
+  "conference_dates": "",
+  "place": "",
+  "link": "https://bmvc2026.bmva.org/",
+  "ccf": "C",
+  "core": "A",
   "proceedings": "full",
   "note": ""
  },
