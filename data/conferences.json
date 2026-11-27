@@ -1,22 +1,5 @@
 [
  {
-  "acronym": "PODS",
-  "name": "ACM Symposium on Principles of Database Systems",
-  "field": "ai",
-  "field_label": "AI · ML · Data Mining",
-  "kind": "ranked",
-  "next_deadline": "2026-05-30",
-  "deadline_estimated": false,
-  "abstract_deadline": "",
-  "conference_dates": "June 13-19, 2027",
-  "place": "Huntington Beach, California, USA",
-  "link": "https://2027.sigmod.org/",
-  "ccf": "B",
-  "core": "A*",
-  "proceedings": "full",
-  "note": ""
- },
- {
   "acronym": "VLDB",
   "name": "International Conference on Very Large Data Bases",
   "field": "ai",
@@ -763,6 +746,23 @@
   "core": "",
   "proceedings": "full",
   "note": "Full papers archival in PMLR, 10 pages in the main track; a new clinical-translation track takes 14 and does not require novelty. Short papers come later and are not archived."
+ },
+ {
+  "acronym": "PODS",
+  "name": "ACM Symposium on Principles of Database Systems",
+  "field": "ai",
+  "field_label": "AI · ML · Data Mining",
+  "kind": "ranked",
+  "next_deadline": "2026-12-10",
+  "deadline_estimated": false,
+  "abstract_deadline": "",
+  "conference_dates": "June 13-19, 2027",
+  "place": "Huntington Beach, California, USA",
+  "link": "https://2027.sigmod.org/",
+  "ccf": "B",
+  "core": "A*",
+  "proceedings": "full",
+  "note": ""
  },
  {
   "acronym": "ECML-PKDD",

@@ -11,7 +11,7 @@ one follows the meetings a researcher working across fields actually needs.
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-26. A `~` marks a deadline estimated from the previous edition; check the
+Last synced 2026-11-27. A `~` marks a deadline estimated from the previous edition; check the
 venue's own page before you plan around it.
 
 ## Next deadlines
@@ -26,13 +26,13 @@ venue's own page before you plan around it.
 | [QIP](https://qipconference.org/2027/) | Quantum computing | 2026-12-04 |
 | [ICIAM](https://iciam2027.org/) | Applied math | 2026-12-07 |
 | [SLEEP](https://www.sleepmeeting.org/call-for-abstracts/) | Sleep & dreams | 2026-12-07 |
+| [PODS](https://2027.sigmod.org/) | AI · ML · Data Mining | 2026-12-10 |
 | [ICAPS](https://icaps27.icaps-conference.org/) | AI · ML · Data Mining | 2026-12-14 |
 | [SST](https://www.theologysociety.org.uk/information/) | Theology | 2026-12-14 |
 | [CTS](https://collegetheology.org/Call-for-Papers) | Theology | 2026-12-15 |
 | [IASD](https://iasdconferences.org/2027/) | Sleep & dreams | 2026-12-18 |
 | [ACL](https://2027.aclweb.org/) | AI · ML · Data Mining | 2027-01-04 |
 | [IJCAI](https://2027.ijcai.org/) | AI · ML · Data Mining | 2027-01-11 |
-| [e-Energy](https://energy.acm.org/conferences/eenergy/2027/) | Power & energy | 2027-01-15 |
 
 ## Computing
 
@@ -40,6 +40,7 @@ venue's own page before you plan around it.
 
 | Venue | Next deadline | Meeting | Rank |
 |---|---|---|---|
+| [**PODS**](https://2027.sigmod.org/) ACM Symposium on Principles of Database Systems | 2026-12-10 | June 13-19, 2027, Huntington Beach, California, USA | CCF B · CORE A* |
 | [**ECML-PKDD**](https://ecmlpkdd.org/2027/) European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases | ~2026-12-13 | August 30 - September 3, 2027, Eindhoven, The Netherlands | CCF B · CORE A |
 | [**ICAPS**](https://icaps27.icaps-conference.org/) International Conference on Automated Planning and Scheduling | 2026-12-14 | June 30 - July 2, 2027, Columbia, SC, USA | CCF B · CORE A* |
 | [**ACL**](https://2027.aclweb.org/) Annual Meeting of the Association for Computational Linguistics | 2027-01-04 | August 20-22, 2027, Kyoto, Japan | CCF A · CORE A* |
@@ -67,7 +68,6 @@ venue's own page before you plan around it.
 | [**MLSys**](https://mlsys.org/) Conference on Machine Learning and Systems | ~2027-10-30 |  |  |
 | [**ECCV**](https://eccv.ecva.net/) European Conference on Computer Vision | ~2028-03-07 |  | CCF B · CORE A* |
 | [**PPSN**](https://ppsn2026.disi.unitn.it/) International Conference on Parallel Problem Solving From Nature | ~2028-04-18 |  | CCF B · CORE A |
-| [**PODS**](https://2027.sigmod.org/) ACM Symposium on Principles of Database Systems | 2026-05-30 (passed) | June 13-19, 2027, Huntington Beach, California, USA | CCF B · CORE A* |
 | [**VLDB**](https://www.vldb.org/2027/) International Conference on Very Large Data Bases | 2026-06-01 (passed) | August 23 - August 27, 2027, Athens, Greece | CCF A · CORE A* |
 | [**SIGSPATIAL**](https://sigspatial2026.sigspatial.org/) ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems | 2026-06-05 (passed) | November 3-6, 2026, Riverside, CA, USA | CCF C · CORE A |
 | [**ICDM**](http://icdm2026.neu.edu.cn/) IEEE International Conference on Data Mining | 2026-06-06 (passed) | November 13-15, 2026, Shenyang, China | CCF B · CORE A* |
